@@ -1,5 +1,8 @@
-#probabilidad
-# Probabilidad Total
+---
+title: Probabilidad Total
+feed: show
+date: 01-01-2021
+---
 
 $P(A) = P(A union B) + P(A union B^`)= P(A|B) dot P(B)+P(A|B^`) dot P(B^`)$
 

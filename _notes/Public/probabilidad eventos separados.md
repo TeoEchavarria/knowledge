@@ -1,5 +1,8 @@
-#probabilidad
-# Probabilidad : Eventos Separados
+---
+title: "Probabilidad : Eventos Separados"
+feed: show
+date: 01-01-2021
+---
 
 - Un evento esta separado del otro cuando, uno no depende del otro.
 

@@ -1,5 +1,8 @@
-#probabilidad
-# Probabilidad : Condicional
+---
+title: "Probabilidad : Condicional"
+feed: show
+date: 01-01-2021
+---
 
 Sea la probabilidad Condicional una donde en este caso un [[evento]] si depende del otro, a diferencia de cuando hablabamos de probabilidad eventos separados
 

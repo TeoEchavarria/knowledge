@@ -1,6 +1,8 @@
-#probabilidad #pruebasHipotesis
-
-# Pruebas de Hipotesis
+---
+title: Pruebas de Hipotesis
+feed: show
+date: 01-01-2021
+---
 
 > [!PDF|yellow] [[Clase 17.pdf#page=7&selection=5,0,14,3&color=yellow|Clase 17, p.1]]
 > > Una hipotesis Estadistica es una afirmacion que se hace con respecto a una o algunas caracteristicas desconocidas de una poblacion de interes o acerca de la misma poblacion.

@@ -1,5 +1,8 @@
-#ai #ml
-# Random Forest
+---
+title: Random Forest
+feed: show
+date: 01-01-2021
+---
 
 Es un algoritmo de [[Machine Learning]] que opera construyendo un [[conjunto]] de árboles de decisión durante el entrenamiento. Digamos que un arbol es el que a travez de un conjunto de datos construye un camino hacia el punto que queremos predecir.
 

@@ -1,5 +1,8 @@
-
-# Sarima
+---
+title: Sarima
+feed: show
+date: 01-01-2021
+---
 
 Parecido al [[arima]] este lo que hace es añadir otros parametros para encapsular la [[estacionalidad]] de la data.
 

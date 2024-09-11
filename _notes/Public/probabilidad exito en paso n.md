@@ -1,5 +1,8 @@
-#probabilidad
-# Probabilidad : Exito en paso N
+---
+title: "Probabilidad : Exito en paso N"
+feed: show
+date: 01-01-2021
+---
 
 Sea $X$ una [[variable aleatoria discreta]] donde lo que se quiere es encontrar el primer individuo con una cierta caracteristica de interes.
 
