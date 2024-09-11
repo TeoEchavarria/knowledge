@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL is the base hostname with protocol for your site, eg http://example.com
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://teoechavarria.github.io/knowledge/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -27,16 +27,16 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Jekyll Garden # Change this 
-content: Obsidian ready Jekyll Theme
+heading: TeoNotes # Change this 
+content: My obsidian notes
 copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
+  year: © 2024
+  msg: Contents under CO-MED
 
 # Set title and content for private & broken link tooltop
 privatelinks:
-  title: Private or Broken Links
-  msg: The page you're looking for is either not available or private!
+  title: TeoNotes
+  msg: This note is private
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"
