@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "4c177198328bbc8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3686cc1d585d1bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7697874deb28ec18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Metodos Numericos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccc2ec775ec95584",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a4685cdeae02e0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401043f3463b23fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bec1056eb9688200",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73fbcd5fb355aca8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b1bfeff4ac13ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0110d1047c704ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad695cc31484c5c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Metodos Numericos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf604f45ff1fd8cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Public/Metodos Numericos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91bfd61c6af52849",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b41aabd11ba03ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Public/Metodos Numericos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "401043f3463b23fe",
+  "lastOpenFiles": [
+    "assets/css/vendor/fonts/KaTeX_Main-Bold.woff",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Regular.woff2",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Regular.woff",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Regular.ttf",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Bold.woff2",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Bold.woff",
+    "assets/css/vendor/fonts/KaTeX_Fraktur-Bold.ttf",
+    "assets/css/vendor/fonts/KaTeX_Caligraphic-Regular.woff2",
+    "assets/css/vendor/fonts/KaTeX_Caligraphic-Regular.woff",
+    "assets/css/vendor/fonts/KaTeX_Caligraphic-Regular.ttf",
+    "assets/css/vendor/fonts/KaTeX_Caligraphic-Bold.woff2",
+    "_notes/Public/Machine Learning.md",
+    "_notes/Public/_index.md"
+  ]
+}
