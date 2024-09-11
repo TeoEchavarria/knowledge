@@ -1,6 +1,8 @@
-#teorema
-# Teorema : Taylor
-
+---
+title: "Teorema : Taylor"
+feed: show
+date: 01-01-2021
+---
 Supongamos que $f in C^n [a, b]$, que $f^((n+1))$ existe en $(a, b)$ y $x_0 in [a, b]$. Para cada $x in [a, b]$ existe un número $beta(x)$ entre $x_0$ y $x$ tal que:
 
 $$f(x) = P_n (x) + R_n (x) = sum_(k=0)^(n) (f^(k) (x_0))/(k!) (x - x_0)^k + (f^((n+1)) dot beta(x))/((n + 1)!) (x - x_0)^(n+1)$$

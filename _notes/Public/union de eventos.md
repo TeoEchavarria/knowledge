@@ -1,5 +1,8 @@
-#probabilidad #teoriaConjuntos
-# Probabilidad : Union de Eventos
+---
+title: "Probabilidad : Union de Eventos"
+feed: show
+date: 01-01-2021
+---
 
  $$P(A sect B)=P(A)+P(B)-P(A union B)$$
 

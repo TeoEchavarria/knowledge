@@ -1,6 +1,8 @@
-#probabilidad #distribuciones
-# Valor Esperado Condicional
-
+---
+title: Valor Esperado Condicional
+feed: show
+date: 01-01-2021
+---
 Imaginemos que tenemos dos variables aleatorias, $X$ y $Y$, que están relacionadas de alguna manera. El valor esperado condicional de $X$ dado $Y=y$, denotado como $E[X|Y=y]$, nos dice cuál es el promedio que esperamos obtener para $X$, si ya sabemos que $Y$ toma el valor $y$.
 
 >[!example] 

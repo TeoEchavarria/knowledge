@@ -1,6 +1,8 @@
-#distribuciones #probabilidad
-# Valor Esperado de [[distribuciones bivariadas]]
-
+---
+title: "Valor Esperado de distribuciones bivariadas"
+feed: show
+date: 01-01-2021
+---
 Imagina que tienes una función g(X, Y) que combina los valores de X e Y de alguna manera. El valor esperado de esta función, $E[g(X, Y)]$, nos dice, en promedio, qué valor podemos esperar obtener al aplicar esta función a los pares de valores (x, y) que siguen la distribución conjunta de X e Y.
 
 ## Caso [[variable aleatoria discreta|Discreto]]
