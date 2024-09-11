@@ -1,6 +1,8 @@
-#probabilidad
-# Variable Continua basada en otra Variable Continua
-
+---
+title: Variable Continua basada en otra Variable Continua
+feed: show
+date: 01-01-2021
+---
 Sea $X$ una [[variable aleatoria continua]] definida con una [[funcion densidad de probabilidad]], para ejemplos practicos:
 
 $$f(x)= k x^2$$ 

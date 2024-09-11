@@ -1,5 +1,8 @@
-# Value Investing
-
+---
+title: Value Investing
+feed: show
+date: 01-01-2021
+---
 Buscar acciones devaluadas => Coticen por debajo de su [[valor intrinseco]]
 
 

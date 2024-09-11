@@ -1,5 +1,8 @@
-# Valor Intrinseco
-
+---
+title: Valor Intrinseco
+feed: show
+date: 01-01-2021
+---
 Se refiere a la **diferencia positiva entre el precio de ejercicio de una opción y el precio del activo subyacente**
 
 

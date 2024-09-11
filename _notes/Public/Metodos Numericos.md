@@ -1,11 +1,9 @@
 ---
-title: Hidden Note
+title: Metodos Numericos
 feed: show
 date: 01-01-2021
 ---
 #metodosNumericos
-# Metodos Numericos
-
 ## Metodos
 
  - [[metodo punto fijo]]

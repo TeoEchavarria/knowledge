@@ -1,7 +1,10 @@
-#ml #ai
-# Ada Boost 
+---
+title: Ada Boost
+feed: show
+date: 01-01-2021
+---
 
-Es un [[algoritmo]] de [[Machine Learning]] de ensamble que combina múltiples clasificadores débiles para crear un clasificador fuerte. 
+Es un [[Algoritmo]] de [[Machine Learning]] de ensamble que combina múltiples clasificadores débiles para crear un clasificador fuerte. 
 
 Los clasificadores débiles se añaden secuencialmente, enfocándose en los ejemplos más difíciles de clasificar correctamente en las rondas anteriores. 
 
