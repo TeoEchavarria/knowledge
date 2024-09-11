@@ -1,5 +1,8 @@
-#teorema #metodosNumericos 
-# Teorema : Convergencia de punto fijo
+---
+title: "Teorema : Convergencia de punto fijo"
+feed: show
+date: 01-01-2021
+---
 
 Si se satisface el [[teorema existencia y unicidad del punto fijo]]  en $[a, b]$, para cualquier $p_0 \in [a, b]$ la sucesión generada por la iteración $p_n = g(p_{n-1}), \forall n \geq 1$, converge a $p$ y se cumple
 

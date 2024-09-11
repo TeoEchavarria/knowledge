@@ -1,6 +1,8 @@
-#teorema #metodosNumericos 
-# Teorema : Norma Vectorial
-
+---
+title: "Teorema : Norma Vectorial"
+feed: show
+date: 01-01-2021
+---
 Si $\| \cdot \|$ es norma vectorial sobre $\mathbb{R}^n$ entonces
 
 $$

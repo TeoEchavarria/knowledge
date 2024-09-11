@@ -1,5 +1,8 @@
-#teorema #metodosNumericos 
-# Teorema : Determinar Convergencia Cuadratica
+---
+title: "Teorema : Determinar Convergencia Cuadratica"
+feed: show
+date: 01-01-2021
+---
 
 Parecido al [[teorema determinar convergencia lineal]] para identificar la cuadratica
 

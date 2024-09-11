@@ -1,6 +1,8 @@
-#probabilidad #teorema #distribuciones
-# Teorema del Limite Central
-
+---
+title: "Teorema del Limite Central"
+feed: show
+date: 01-01-2021
+---
 Este teorema lo que nos dice es que, si tomamos una muestra significativamente grande, su media ($mu$) sea va a distribuir como una [[distribucion normal]]. 
 
  >[!note] Notar

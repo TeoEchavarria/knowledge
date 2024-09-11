@@ -1,6 +1,8 @@
-#teorema #metodosNumericos
-# Teorema : Matriz definida Positiva y Tridiagonal
-
+---
+title: "Teorema : Matriz definida Positiva y Tridiagonal"
+feed: show
+date: 01-01-2021
+---
 Si $A$ es una [[matriz definida positiva]] y tridiagonal entonces $\rho(T_{GS}) = [\rho(T_J)]^2 < 1$ y la elección óptima de $\omega$ para el [[metodo de S.O.R.]] es
 
 $$
