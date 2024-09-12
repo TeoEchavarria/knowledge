@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/pruebas de hipotesis errores.md",
+                "file": "_notes/Public/arima.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/pruebas de hipotesis errores.md",
+                "file": "_notes/Public/arima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/pruebas de hipotesis errores.md",
+                "file": "_notes/Public/arima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/pruebas de hipotesis errores.md"
+                "file": "_notes/Public/arima.md"
               }
             }
           }
@@ -143,33 +143,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
-    "_site/note/p-valor.html",
-    "_site/note/orden-convergencia.html",
-    "_site/note/norma-matricial.html",
-    "_site/note/muestra-aleatoria.html",
-    "_site/note/metodo-punto-fijo.html",
-    "_site/note/metodo-newton.html",
-    "_site/note/metodo-newton-acelerado.html",
-    "_site/note/metodo-Jacobi.html",
-    "_site/note/metodo-Gauss-Seidel.html",
-    "_site/note/metodo-biyeccion.html",
-    "_site/note/matriz.html",
-    "_notes/Public/errores en las pruebas de hipotesis.md",
-    "_notes/Public/pruebas de hipotesis errores.md",
-    "_notes/Public/ada boost.md",
+    "_notes/Public/estacionalidad.md",
+    "_notes/Public/arima.md",
+    "_notes/Public/serie de tiempo.md",
+    "_notes/Public/aproximar hipergeometrica con binomial.md",
     "_notes/Public/aproximar binomial con poisson.md",
     "_notes/Public/algoritmo.md",
-    "_notes/Public/aproximar hipergeometrica con binomial.md",
+    "_notes/Public/ada boost.md",
+    "_site/note/evento.html",
+    "_site/note/estacionalidad.html",
+    "_site/note/esperanza.html",
+    "_site/note/espacio-muestral.html",
+    "_site/note/distribuciones-marginales.html",
+    "_site/note/distribuciones-condicionales.html",
+    "_site/note/distribuciones-bivariadas.html",
+    "_site/note/distribucion-poisson.html",
+    "_site/note/distribucion-normal.html",
+    "_site/note/distribucion-hipergeometrica.html",
+    "_notes/Public/probabilidad evento.md",
+    "_notes/Public/evento.md",
+    "_notes/Public/esperanza.md",
+    "_notes/Public/espacio muestral.md",
+    "_notes/Public/distribuciones marginales.md",
+    "_notes/Public/distribuciones condicionales.md",
+    "_notes/Public/distribuciones bivariadas.md",
+    "_notes/Public/distribucion poisson.md",
+    "_notes/Public/distribucion normal.md",
+    "_notes/Public/distribucion hipergeometrica.md",
+    "_notes/Public/distribucion binomial.md",
+    "_notes/Public/distribucion bernoulli.md",
+    "_notes/Public/distribucion acumulada.md",
+    "_notes/Public/covarianza.md",
+    "_notes/Public/correlacion.md",
+    "_notes/Public/corolario teorema simetria.md",
     "_notes/Public/corolario convergencia solucion unica sistema lineal.md",
-    "_notes/Public/bagging.md",
-    "_notes/Public/arima.md",
-    "_notes/Public/unvesting.md",
-    "_notes/Public/Metodos Numericos.md",
+    "_notes/Public/ceros de multiplicidad.md",
+    "_notes/Public/time serie estacionalidad.md",
     "_site/assets/img/sun.svg",
     "_site/assets/img/moon.svg",
     "_site/assets/img/external-link.svg",
@@ -179,8 +196,6 @@
     "_site/assets/img/5-how-to.png",
     "_site/assets/img/4-how-to.png",
     "_site/assets/img/3-how-to.png",
-    "_site/assets/img/2-how-to.png",
-    "_notes/Public/Machine Learning.md",
-    "_notes/Public/_index.md"
+    "_site/assets/img/2-how-to.png"
   ]
 }
