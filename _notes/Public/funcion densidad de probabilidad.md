@@ -1,5 +1,8 @@
-#probabilidad
-# Funcion Densidad de Probabilidad
+---
+title: "Probabilidad : Funcion Densidad de Probabilidad"
+feed: show
+date: 01-01-2021
+---
 
 La funcion densidad de probabilidad se le asigna a un [[variable aleatoria continua]]
 

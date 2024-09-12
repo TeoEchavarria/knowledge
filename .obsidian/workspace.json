@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/ada boost.md",
+                "file": "_notes/Public/pruebas de hipotesis errores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/ada boost.md",
+                "file": "_notes/Public/pruebas de hipotesis errores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/ada boost.md",
+                "file": "_notes/Public/pruebas de hipotesis errores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/ada boost.md"
+                "file": "_notes/Public/pruebas de hipotesis errores.md"
               }
             }
           }
@@ -148,22 +148,25 @@
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
+    "_site/note/independencia-entre-variables-aleatorias.html",
+    "_site/note/gradient_boosting.html",
+    "_site/note/funcion-masa-de-probabilidad.html",
+    "_site/note/funcion-densidad-de-probabilidad.html",
+    "_site/note/experimento-aleatorio.html",
+    "_site/note/evento.html",
+    "_site/note/estacionalidad.html",
+    "_site/note/esperanza.html",
+    "_site/note/espacio-vectorial-dimension-finita.html",
+    "_site/note/espacio-muestral.html",
+    "_site/note/pruebas-de-hipotesis-errores.html",
+    "_notes/Public/errores en las pruebas de hipotesis.md",
+    "_notes/Public/pruebas de hipotesis errores.md",
+    "_notes/Public/ada boost.md",
     "_notes/Public/aproximar binomial con poisson.md",
     "_notes/Public/algoritmo.md",
-    "_notes/Public/ada boost.md",
     "_notes/Public/aproximar hipergeometrica con binomial.md",
-    "_site/note/distribucion-normal.html",
-    "_site/note/distribucion-hipergeometrica.html",
-    "_site/note/distribucion-binomial.html",
-    "_site/note/distribucion-bernoulli.html",
-    "_site/note/distribucion-acumulada.html",
-    "_site/note/covarianza.html",
-    "_site/note/correlacion.html",
-    "_site/note/corolario-teorema-simetria.html",
     "_notes/Public/corolario convergencia solucion unica sistema lineal.md",
-    "_site/note/corolario-convergencia-solucion-unica-sistema-lineal.html",
     "_notes/Public/bagging.md",
-    "_site/note/contable.html",
     "_notes/Public/arima.md",
     "_notes/Public/unvesting.md",
     "_notes/Public/Metodos Numericos.md",

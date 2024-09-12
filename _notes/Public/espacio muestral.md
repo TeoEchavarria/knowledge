@@ -1,5 +1,8 @@
-#probabilidad
-# Espacio Muestral
+---
+title: "Probabilidad : Espacio Muestral"
+feed: show
+date: 01-01-2021
+---
 
 Es el [[conjunto]] de todos los posibles resultados que se obtienen al realizar un [[experimento aleatorio]]
 

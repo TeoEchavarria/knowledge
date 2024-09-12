@@ -1,6 +1,8 @@
-#distribuciones #probabilidad
-# Distribucion Poisson
-
+---
+title: "Distribucion : Poisson"
+feed: show
+date: 01-01-2021
+---
 
 El [[experimento aleatorio]] consiste en contar el numero de veces que ocurre un cierto [[evento]] de interes por unidad de tiempo o espacio. $$X: text("numero de ocurrencias en el intervalo real.")$$
 

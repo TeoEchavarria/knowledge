@@ -1,5 +1,8 @@
-#distribuciones #probabilidad
-# Distribuciones Bivariadas
+---
+title: "Distribucion : Bivariadas"
+feed: show
+date: 01-01-2021
+---
 
 Son distribuciones de probabilidad que describen el comportamiento conjunto de dos [[variable aleatoria|variables aleatorias]]. Estas distribuciones ayudan a entender cómo las dos variables están relacionadas y cómo varían juntas.
 

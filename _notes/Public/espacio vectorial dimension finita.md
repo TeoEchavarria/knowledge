@@ -1,5 +1,8 @@
-
-# Espacio Vectorial - Dimension Finita
+---
+title: "Espacio Vectorial - Dimension Finita"
+feed: show
+date: 01-01-2021
+---
 
 Sea $(V, +, \cdot)$ un espacio vectorial de dimensión finita. Una norma vectorial es cualquier función real definida en $V$ notada por
 

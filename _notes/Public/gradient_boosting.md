@@ -1,5 +1,8 @@
-#ml #ai
-# Gradient Boosting
+---
+title: Gradient Boosting
+feed: show
+date: 01-01-2021
+---
 
 Es un método de [[Machine Learning]] de ensamble que crea un [[modelo]] fuerte a partir de una serie de modelos débiles, típicamente árboles de decisión. 
 

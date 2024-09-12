@@ -1,5 +1,8 @@
-#probabilidad
-# Esperanza
+---
+title: "Probabilidad : Esperanza"
+feed: show
+date: 01-01-2021
+---
 
 Cuando es una [[variable aleatoria discreta]]:  $$mu = E(x) = sum x*P(x)$$ 
 En el caso de ser una [[variable aleatoria continua]]: 

@@ -1,5 +1,8 @@
-#distribuciones #probabilidad
-# Distribuciones Condicionales
+---
+title: "Distribucion : Condicionales"
+feed: show
+date: 01-01-2021
+---
 
 La distribución [[probabilidad condicional|condicional]] de una [[variable aleatoria]] (por ejemplo, Y) dado un valor de otra variable (X) nos dice la probabilidad de que Y tome un valor específico, sabiendo que X ya ha tomado un valor particular.
 

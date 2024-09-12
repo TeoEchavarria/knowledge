@@ -1,6 +1,8 @@
-#probabilidad #pruebasHipotesis
-
-# Errores en pruebas de hipotesis
+---
+title: "Pruebas de hipotesis : Errores"
+feed: show
+date: 01-01-2021
+---
 
 En este proceso de [[pruebas de hipotesis]] se pueden cometer dos tipos de errores:
 

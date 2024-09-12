@@ -1,5 +1,8 @@
-#distribuciones #probabilidad
-# Distribuciones Marginales
+---
+title: "Distribucion : Marginal"
+feed: show
+date: 01-01-2021
+---
 
 La distribución marginal de una [[variable aleatoria]] (por ejemplo, X) nos dice la probabilidad de que esa variable tome un valor específico, sin importar los valores que tomen las otras variables.
 

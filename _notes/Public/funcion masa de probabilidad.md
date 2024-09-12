@@ -1,5 +1,8 @@
-#probabilidad
-# Funcion Masa de Probabilidad
+---
+title: "Probabilidad : Funcion Masa de Probabilidad"
+feed: show
+date: 01-01-2021
+---
 
 La funcion masa de probabilidad se le asigna a las [[variable aleatoria discreta|variables aleatorias discretas]]
 
