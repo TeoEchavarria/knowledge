@@ -1,5 +1,8 @@
-#metodosNumericos
-# Ceros de Multiplicidad
+---
+title: Ceros de Multiplicidad
+feed: show
+date: 01-01-2021
+---
 
 Cuando simplemente hay un corte con el eje $x$, se dice que es un cero simple *($p$ es un cero simple de $f$)*
 

@@ -1,5 +1,5 @@
 ---
-title: Aproximar : Binomial con una Poisson
+title: "Aproximar  :  Binomial con una Poisson"
 feed: show
 date: 01-01-2021
 ---

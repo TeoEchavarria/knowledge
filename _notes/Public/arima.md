@@ -1,5 +1,8 @@
-
-# Arima
+---
+title: Arima
+feed: show
+date: 01-01-2021
+---
 
 Significa "Autoregressive Integrated Moving Average", es un modelo estadístico utilizado para analizar y prever [[serie de tiempo]]. Es especialmente útil para datos que muestran patrones claros de tendencia o [[estacionalidad]].
 

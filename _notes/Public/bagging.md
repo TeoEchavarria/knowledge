@@ -1,5 +1,8 @@
-#ml #ai
-# Bagging
+---
+title: Bagging
+feed: show
+date: 01-01-2021
+---
 
 Es una técnica de ensamble en [[Machine Learning]] donde múltiples [[modelos|modelo]] (generalmente del mismo tipo) se entrenan en subconjuntos de datos ligeramente diferentes. 
 

@@ -1,5 +1,8 @@
-#probabilidad
-# Covarianza
+---
+title: Covarianza
+feed: show
+date: 01-01-2021
+---
 
 La covarianza es una medida estadística que indica cómo dos [[variable aleatoria|variables aleatorias]] se relacionan de manera lineal, mostrando si tienden a aumentar o disminuir juntas. 
 

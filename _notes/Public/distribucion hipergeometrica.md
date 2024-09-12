@@ -1,6 +1,8 @@
-#probabilidad #distribuciones
-# Distribucion : Hipergeometrica
-
+---
+title: "Distribucion : Hipergeometrica"
+feed: show
+date: 01-01-2021
+---
 
 Es practicamente igual a una  [[distribucion binomial]] mas en este caso tenemos 2 grupos, donde $K$ es el numero de personas que tienen la caracteristica de interes, de toda la poblacion $N$.
 

@@ -11,7 +11,7 @@ date: 11-05-2022
 - [[random forest]]
 - [[bagging]]
 - [[gradient_boosting]]
-- [[Ada Boost]]
+- [[ada boost]]
 - [[voting]]
 - [[stacking]]
 

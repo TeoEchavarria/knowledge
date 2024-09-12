@@ -1,6 +1,8 @@
-#probabilidad #distribuciones
-# Distribucion : Bernoulli
-
+---
+title: "Distribucion : Bernoulli"
+feed: show
+date: 01-01-2021
+---
 
 Un [[experimento aleatorio]] se caracteriza por tener solo dos posibles resultados *(usualmente llamados **’EXITO’** o **’FRACASO’**)*.
 

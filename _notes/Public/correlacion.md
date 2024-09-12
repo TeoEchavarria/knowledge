@@ -1,5 +1,8 @@
-#probabilidad
-# Correlacion
+---
+title: Correlacion
+feed: show
+date: 01-01-2021
+---
 
 La correlacion tiene la misma intencion que la [[covarianza]], solo que con esta lo que se intenta es quitar el factor escalar y estandarizarla a una escala de $0$ a $1$ para que de esta forma sea mas comprensible el resultado a la hora de analizar esa relacion entre dos [[variable aleatoria|variables aleatorias]].
 

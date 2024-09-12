@@ -1,5 +1,8 @@
-#probabilidad #distribuciones
-# Distribucion : Acumulada
+---
+title: "Distribucion : Acumulada"
+feed: show
+date: 01-01-2021
+---
 
 
 Sea $p(x)$ su [[funcion masa de probabilidad]] Por lo que su distribucion acumulada va ser igual a  $$F(X) = P(X <= x)=sum_{x_i <= x} p(x_i)$$ 

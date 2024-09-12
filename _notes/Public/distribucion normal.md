@@ -1,5 +1,8 @@
-#distribuciones #probabilidad
-# Distribucion Normal
+---
+title: "Distribucion : Normal"
+feed: show
+date: 01-01-2021
+---
 
 
 En la naturaleza fenomenos como temperatura, precipitaciones, presion atmosferica, mediciones en organismos vivos, notas o puntajes en pruebas de admision o de aptitud, errores en instrumentacion, proporciones de errores en diversos procesos, etc. Esta distribucion es la que los modelos mejor.

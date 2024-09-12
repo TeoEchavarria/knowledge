@@ -1,5 +1,8 @@
-#teoriaConjuntos
-# Contable
+---
+title: Contable
+feed: show
+date: 01-01-2021
+---
 
 Un [[conjunto]] es contable si sus elementos se pueden contar uno a uno y asociar cada uno de ellos con un número entero positivo. Esto incluye conjuntos finitos y conjuntos infinitos que se pueden emparejar con los números naturales.
 

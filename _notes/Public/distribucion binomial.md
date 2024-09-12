@@ -1,5 +1,8 @@
-#probabilidad #distribuciones
-# Distribucion : Binomial
+---
+title: "Distribucion : Binomial"
+feed: show
+date: 01-01-2021
+---
 
 Un [[experimento aleatorio]] es llamado Binomial si cumple las siguientes caracteristicas: 
 - Consta de $n$ pruebas identicas e [[050824214005]]. 
