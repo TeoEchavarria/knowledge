@@ -148,6 +148,8 @@
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
+    "_site/note/unvesting.html",
+    "_notes/Public/unvesting.md",
     "_site/note/probabilidad-condicional.html",
     "_site/note/probabilidad-eventos-separados.html",
     "_site/note/probabilidad-exito-en-paso-n.html",
@@ -158,7 +160,6 @@
     "_site/note/region-de-rechazo.html",
     "_site/note/sarima.html",
     "_site/note/serie-de-tiempo.html",
-    "_site/note/stacking.html",
     "_notes/Public/Ada Boost.md",
     "_notes/Public/Metodos Numericos.md",
     "_site/assets/img/sun.svg",
