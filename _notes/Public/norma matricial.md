@@ -1,7 +1,8 @@
-#geometry
-# Norma Matricial
-
-función
+---
+title: "Norma Matricial"
+feed: show
+date: 01-01-2021
+---
 
 $$
 \| \cdot \|: \mathbb{R}^{n \times n} \rightarrow \mathbb{R}

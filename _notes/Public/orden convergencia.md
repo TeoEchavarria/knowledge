@@ -1,5 +1,8 @@
-#metodosNumericos
-# Orden de convergencia
+---
+title: "Metodos Numericos : Orden de convergencia"
+feed: show
+date: 01-01-2021
+---
 
 Supongamos que  es sucesión que converge a , con , . Si existen constantes positivas  y  tales que
 

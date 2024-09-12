@@ -1,6 +1,8 @@
-#probabilidad #pruebasHipotesis 
-
-# Valor P
+---
+title: "Probabilidad : Valor P"
+feed: show
+date: 01-01-2021
+---
 
 EL valor p es el que representa el error porcentual que tiene el rechazar el $H_0$
 
