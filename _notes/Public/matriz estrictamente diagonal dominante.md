@@ -1,5 +1,8 @@
-#geometry
-# Matriz : Estrictamente Diagonal Dominante
+---
+title: "Matriz : Estrictamente Diagonal Dominante"
+feed: show
+date: 01-01-2021
+---
 
 Se dice que una [[matriz]] $A \in \mathbb{R}^{n \times n}$ es estrictamente *diagonal dominante* por filas cuando
 

@@ -1,6 +1,9 @@
 
-#geometry
-# Matriz Cuadrada
+---
+title: "Matriz Cuadrada"
+feed: show
+date: 01-01-2021
+---
 
 Sea $A$ una matriz cuadrada.
 

@@ -1,5 +1,8 @@
- #metodosNumericos
-# Metodo : Punto Fijo
+---
+title: "Metodos Numericos : Punto Fijo"
+feed: show
+date: 01-01-2021
+---
 
 Si $g(x)$ cumple con el ![[teorema existencia y unicidad del punto fijo]]
 

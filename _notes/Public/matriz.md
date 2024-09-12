@@ -1,6 +1,8 @@
-#geometry
-# Matriz
-
+---
+title: Matriz
+feed: show
+date: 01-01-2021
+---
 
 Una matriz es una tabla organizada en filas y columnas.
 

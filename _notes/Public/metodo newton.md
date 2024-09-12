@@ -1,5 +1,8 @@
-#metodosNumericos
-# Metodo : Newton
+---
+title: "Metodos Numericos : Newton"
+feed: show
+date: 01-01-2021
+---
 
 Sea $f(x)$ una funcion, y $[a,b]$ el intervalo donde queremos probar que existe un punto que pasa por 0
 

@@ -3,7 +3,6 @@ title: Metodos Numericos
 feed: show
 date: 01-01-2021
 ---
-#metodosNumericos
 ## Metodos
 
  - [[metodo punto fijo]]

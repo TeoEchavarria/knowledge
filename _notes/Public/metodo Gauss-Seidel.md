@@ -1,5 +1,8 @@
-#metodosNumericos
-# Metodo : Gauss-Seidel
+---
+title: "Metodos Numericos : Gauss-Seidel"
+feed: show
+date: 01-01-2021
+---
 
 Parecido al [[metodo Jacobi]] mas al momento de reemplazar en las funciones lo que hacemos es utilizar los anteriores que reemplazamos
 

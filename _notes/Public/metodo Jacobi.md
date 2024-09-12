@@ -1,5 +1,8 @@
-#metodosNumericos
-# Metodo : Jacobi
+---
+title: "Metodos Numericos : Jacobi"
+feed: show
+date: 01-01-2021
+---
 
 Tenemos 3 ecuaciones y un vector $x^{(0)}$ 
 

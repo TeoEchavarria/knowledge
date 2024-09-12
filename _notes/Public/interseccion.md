@@ -1,5 +1,8 @@
-#teoriaConjuntos
-# Interseccion
+---
+title: Interseccion
+feed: show
+date: 01-01-2021
+---
 
 En teoría de [[conjunto|conjuntos]] la intersección de dos conjuntos es el conjunto que contiene todos los elementos que son comunes a ambos conjuntos originales. Si tienes dos conjuntos, $A$ y $B$, la intersección de estos conjuntos se denota como $A sect B$.
 

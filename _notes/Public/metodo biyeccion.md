@@ -1,5 +1,8 @@
-#metodosNumericos
-# Metodo : Biyeccion
+---
+title: "Metodos Numericos : Biyeccion"
+feed: show
+date: 01-01-2021
+---
 
 En si el metodo de biyeccion es una serie de pasos:
 
