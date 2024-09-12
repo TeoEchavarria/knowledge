@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
-Es una técnica de ensamble en [[Machine Learning]] donde múltiples [[modelos|modelo]] (generalmente del mismo tipo) se entrenan en subconjuntos de datos ligeramente diferentes. 
+Es una técnica de ensamble en [[machine learning]] donde múltiples [[modelos|modelo]] (generalmente del mismo tipo) se entrenan en subconjuntos de datos ligeramente diferentes. 
 
 Imagina un grupo de estudiantes *(los modelos)* que estudian para un examen *(el problema de predicción)*. Cada estudiante practica con una selección aleatoria de preguntas *(subconjuntos de datos)* con algunas repeticiones. 
 

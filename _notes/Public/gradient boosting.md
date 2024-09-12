@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
-Es un método de [[Machine Learning]] de ensamble que crea un [[modelo]] fuerte a partir de una serie de modelos débiles, típicamente árboles de decisión. 
+Es un método de [[machine learning]] de ensamble que crea un [[modelo]] fuerte a partir de una serie de modelos débiles, típicamente árboles de decisión. 
 
 A diferencia de [[ada boost]], que ajusta los pesos de las instancias.
 

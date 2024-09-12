@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
-Es un algoritmo de [[Machine Learning]] que opera construyendo un [[conjunto]] de árboles de decisión durante el entrenamiento. Digamos que un arbol es el que a travez de un conjunto de datos construye un camino hacia el punto que queremos predecir.
+Es un algoritmo de [[machine learning]] que opera construyendo un [[conjunto]] de árboles de decisión durante el entrenamiento. Digamos que un arbol es el que a travez de un conjunto de datos construye un camino hacia el punto que queremos predecir.
 
 Random Forest se enfoca en tomar muchos arboles, de ahi el nombre de **forest(bosque)** y con base a todos esos arboles tener una mejor perspectiva de tus datos.
 

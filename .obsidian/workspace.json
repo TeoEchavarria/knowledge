@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/arima.md",
+                "file": "_notes/Public/matriz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/arima.md",
+                "file": "_notes/Public/matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/arima.md",
+                "file": "_notes/Public/matriz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/arima.md"
+                "file": "_notes/Public/matriz.md"
               }
             }
           }
@@ -151,8 +151,16 @@
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
-    "_notes/Public/estacionalidad.md",
+    "_site/note/gradient-boosting.html",
+    "_notes/Public/gradient boosting.md",
+    "_notes/Public/p valor.md",
+    "_notes/Public/variable continua basada en otra variable continua.md",
+    "_notes/Public/metodos numericos.md",
+    "_site/note/metodos-numericos.html",
+    "_site/note/machine-learning.html",
+    "_notes/Public/machine learning.md",
     "_notes/Public/arima.md",
+    "_notes/Public/estacionalidad.md",
     "_notes/Public/serie de tiempo.md",
     "_notes/Public/aproximar hipergeometrica con binomial.md",
     "_notes/Public/aproximar binomial con poisson.md",
@@ -166,8 +174,6 @@
     "_site/note/distribuciones-condicionales.html",
     "_site/note/distribuciones-bivariadas.html",
     "_site/note/distribucion-poisson.html",
-    "_site/note/distribucion-normal.html",
-    "_site/note/distribucion-hipergeometrica.html",
     "_notes/Public/probabilidad evento.md",
     "_notes/Public/evento.md",
     "_notes/Public/esperanza.md",
@@ -181,12 +187,6 @@
     "_notes/Public/distribucion binomial.md",
     "_notes/Public/distribucion bernoulli.md",
     "_notes/Public/distribucion acumulada.md",
-    "_notes/Public/covarianza.md",
-    "_notes/Public/correlacion.md",
-    "_notes/Public/corolario teorema simetria.md",
-    "_notes/Public/corolario convergencia solucion unica sistema lineal.md",
-    "_notes/Public/ceros de multiplicidad.md",
-    "_notes/Public/time serie estacionalidad.md",
     "_site/assets/img/sun.svg",
     "_site/assets/img/moon.svg",
     "_site/assets/img/external-link.svg",
