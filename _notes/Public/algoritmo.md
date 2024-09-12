@@ -1,5 +1,5 @@
 ---
 title: Algoritmo
-feed: show
+feed: hide
 date: 01-01-2021
 ---
