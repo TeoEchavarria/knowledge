@@ -1,7 +1,7 @@
 ---
 title: Metodos Numericos
 feed: show
-date: 01-01-2021
+date: 02-01-2021
 ---
 ## Metodos
 

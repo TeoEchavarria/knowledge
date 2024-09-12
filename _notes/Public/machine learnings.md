@@ -1,7 +1,7 @@
 ---
 title: Machine Learning
 feed: show
-date: 11-05-2022
+date: 11-09-2024
 ---
 
 #ml #ai
@@ -10,7 +10,7 @@ date: 11-05-2022
 ## Machine Learning Models
 - [[random forest]]
 - [[bagging]]
-- [[gradient_boosting]]
+- [[gradient boosting]]
 - [[ada boost]]
 - [[voting]]
 - [[stacking]]
