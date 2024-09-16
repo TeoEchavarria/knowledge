@@ -56,3 +56,66 @@ Todas las situaciones laborales exigen una cierta distancia entre la genta que p
 
 - Nunca inicie una lucha contra quien no se este seguro de poder derrotar.
 - Nunca permita que la presencia de sus enemigos lo altere o atemorice. **Es mucho mejor tener contrincantes declarados que no saber por donde acecha el enemigo**
+
+# Ley 3 - Disimule sus intenciones 
+
+Si no tienen la menor idea de que es lo que usted quiere lograr, les resultara imposible preparar una defensa.
+
+## Parte 1: Utilice Falsos objetos de deseo y pistas falsas para distraer la atencion de los demas
+
+> Porque a veces cualquier emocion, es mejor que el aburrimiento de la certeza
+
+No revele sus intenciones, o al menos no en su totalidad. 
+
+**Sofrenar la lengua y controlar con cuidado lo que se revela exige un gran esfuerzo**
+
+> La sinceridad es un instrumento romo, que hace sangrar mas de lo que corta.
+
+Es mucho mas prudente mentir y adecuar las palabras a lo que la gente desea oir, no engrentarla con la cruda realidad de lo que uno siente.
+**El ser desinhibidamente franco lo convertira en un individuo tan predecible y conocido, que sera casi imposible respetarlo o temerle.**
+
+>[!nota] 
+>Oculte sus intenciones, no cerrandose, sino hablando sin cesar de sus deseos y objetivos... pero no los verdaderos. Con eso matara 3 pajaros de un tiro:
+>- Parecera una persona amable, abierta y confiada
+>- Ocultara sus verdaderas intenciones
+>- Sus rivales pierden tiempo precioso defendiendo el flanco equivocado
+
+> Los mejores burladores hacen todo lo que esta a su alcance para enmascarar su caracter de bribones
+
+
+## Parte 2: Utilice una cortina de humo para ocultar sus actos
+
+> Si usted dirige a sus victimas por un sendero conocido, no se daran cuenta cuando las conduzca hacia una trampa
+
+ Al hacerlo sentir en confianza y que era el quien controlaba la situacion, creo una densa cortina de humo que cubrio lo que en realidad sucedia
+
+>[!warning] Recuerde
+>Los paranoicos y los desconfiados suelen ser los mas faciles de engañar. Preocure ganar su confianza en un area y tendra la perfecta cortina de humo
+
+Una vez que haya adormecido la atencion del incauto con la familiar, lo habitual, la victima no se dara cuenta de la de la argucia que se les esta perpetrando a sus espaldas.
+
+Es esquema repetitivo, hace que su victima espere que sus acciones sean iguales a las anteriores, dado que ya esta acostumbrado a ese mismo actuar. No se esperara lo opuesto, aproveche esa ventaja.
+
+> Necesitara paciencia y humildad para apagar sus colores brillantes y ponerse la mascara que le permita pasar inadvertido. 
+
+
+# Ley 4 - Diga siempre menos de lo necesario
+
+> Cuanto mas diga mas vulnerable sera y menor control de la situacion tendra
+
+**Cuanto mas hable, mayor sera el riesgo de decir alguna tonteria**
+
+Una persona incapaz de controlar sus palabras, es tambien una persona incapaz de controlarse a si misma. **Y por lo tanto indigna de respeto.**
+
+> Aquellos que despilfarran el tesoro de sus palabras no pueden acumular poder.
+
+>[!note]
+>Nadie podia intentar engañarlo diciendole lo que queria oir, ya que nadie sabia que era loq ue deseaba oir
+
+*Para un ministro es mas perjudicial decir tonterias que cometerlas*
+
+> El Poder es un juego de apariencias, y cuando usted dice menos de lo necesario parecera Inevitablemente mas grande y poderoso de lo que en realidad es.
+
+
+
+

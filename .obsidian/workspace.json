@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "_notes/books/las 48 leyes del poder robert greene.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +149,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7697874deb28ec18",
+  "active": "5b41aabd11ba03ba",
   "lastOpenFiles": [
     "_notes/Public/ada boost.md",
     "_notes/Public/algoritmo.md",
