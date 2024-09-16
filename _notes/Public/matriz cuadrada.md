@@ -1,4 +1,3 @@
-
 ---
 title: "Matriz Cuadrada"
 feed: show

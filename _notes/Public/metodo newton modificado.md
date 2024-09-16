@@ -1,4 +1,4 @@
- ---
+---
 title: "Metodos Numericos : Newton Modificado"
 feed: show
 date: 01-01-2021

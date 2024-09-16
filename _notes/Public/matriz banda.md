@@ -1,4 +1,3 @@
-
 ---
 title: "Matriz Banda"
 feed: show
