@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/metodos numericos.md",
+                "file": "_notes/Public/pruebas de bondad de ajuste.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metodos num",
+                "query": "pruebas de hipotesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_notes/Public/metodos numericos.md",
+                "file": "_notes/Public/pruebas de bondad de ajuste.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +100,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.9315025104159704,
                   "close": true
                 }
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/metodos numericos.md",
+                "file": "_notes/Public/pruebas de bondad de ajuste.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,12 +138,26 @@
             }
           },
           {
+            "id": "772cee7b76a1460d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_notes/courses/probabilidad/Clase 20.pdf",
+                "page": 136,
+                "left": -13,
+                "top": 193,
+                "zoom": 1.128612179089669
+              }
+            }
+          },
+          {
             "id": "bf604f45ff1fd8cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/metodos numericos.md",
+                "file": "_notes/Public/pruebas de bondad de ajuste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,16 +180,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/metodos numericos.md"
+                "file": "_notes/Public/pruebas de bondad de ajuste.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 585.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,42 +206,42 @@
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
+    "_notes/Public/prueba de hipotesis Kolmogorov-Smirnov.md",
+    "_notes/Public/prueba de hipotesis Jarque Bera.md",
+    "_notes/Public/prueba de hipotesis de Asimetria y Kurtosis de Mardia.md",
+    "_notes/Public/prueba de hipotesis Cramer Von Misses.md",
+    "_notes/Public/prueba de hipotesis  Shapiro-Wilks.md",
+    "_notes/prueba de hipotesis Kolmogorov-Smirnov.md",
+    "_notes/prueba de hipotesis Jarque Bera.md",
+    "_notes/prueba de hipotesis de Asimetria y Kurtosis de Mardia.md",
+    "_notes/prueba de hipotesis Cramer Von Misses.md",
+    "_notes/prueba de hipotesis  Shapiro-Wilks.md",
+    "prueba de hipotesis de Asimetria y Kurtosis de Mardia.md",
+    "_notes/Public/pruebas de bondad de ajuste.md",
+    "prueba de hipotesis Jarque Bera.md",
+    "prueba de hipotesis Cramer Von Misses.md",
+    "prueba de hipotesis  Shapiro-Wilks.md",
+    "prueba de hipotesis Kolmogorov-Smirnov.md",
+    "_notes/Public/region de rechazo.md",
+    "_notes/courses/probabilidad/Clase 20.pdf",
+    "_notes/Public/teorema determinar convergencia cuadratica.md",
+    "_notes/Public/pruebas de hipotesis.md",
+    "_notes/Public/pruebas de hipotesis errores.md",
+    "_notes/books/las 48 leyes del poder robert greene.md",
+    "_notes/Public/metodos numericos.md",
     "_notes/Public/metodo Gauss-Seidel.md",
     "_notes/Public/teorema matriz dominante Jacobi GaussSeidel.md",
-    "_notes/books/las 48 leyes del poder robert greene.md",
     "_notes/Public/ada boost.md",
     "_notes/Public/algoritmo.md",
-    "_notes/Public/arima.md",
-    "_notes/Public/aproximar hipergeometrica con binomial.md",
-    "_notes/Public/aproximar binomial con poisson.md",
-    "_notes/Public/complemento.md",
     "_notes/books",
-    "_notes/courses/_index.md",
-    "_notes/Public/matriz.md",
     "_site/note/metodos-numericos.html",
-    "_notes/Public/metodos numericos.md",
     "_site/note/machine-learning.html",
-    "_notes/Public/machine learning.md",
     "_site/note/machine-learnings.html",
-    "_notes/Public/machine learnings.md",
     "_site/note/metodo-numerico.html",
-    "_notes/Public/metodo numerico.md",
     "_site/note/metodos-numericos-copy.html",
-    "_notes/Public/metodos numericos copy.md",
     "_site/note/gradient-boosting.html",
-    "_notes/Public/gradient boosting.md",
-    "_notes/Public/p valor.md",
-    "_notes/Public/variable continua basada en otra variable continua.md",
-    "_notes/Public/estacionalidad.md",
-    "_notes/Public/serie de tiempo.md",
     "_site/note/evento.html",
     "_site/note/estacionalidad.html",
-    "_site/note/esperanza.html",
-    "_notes/Public/probabilidad evento.md",
-    "_notes/Public/evento.md",
-    "_notes/Public/esperanza.md",
-    "_notes/Public/espacio muestral.md",
-    "_notes/Public/distribuciones marginales.md",
     "_site/assets/img/sun.svg",
     "_site/assets/img/moon.svg",
     "_site/assets/img/external-link.svg",

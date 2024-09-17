@@ -117,5 +117,23 @@ Una persona incapaz de controlar sus palabras, es tambien una persona incapaz de
 > El Poder es un juego de apariencias, y cuando usted dice menos de lo necesario parecera Inevitablemente mas grande y poderoso de lo que en realidad es.
 
 
+# Ley 5 - Casi todo depende de su prestigio, defiendalo a muerte
+
+> Basta el prestigio para intimidar y ganar
+
+Aun aquellos que desprecian la fama quieren que los libros que escriben en contral ella lleven su nombre bajo el titulo.
+
+Si no tiene la reputacion suficiente como para hacerle contra a su enemigo tiene dos caminos:
+- Manifestar dudas sobre la reputacion del enemigo. Una vez que esta idea ha sido sembrada puede ocurrir que lo desmienta y usted quede como un difamador, o que la duda de su apuro por desmentir contribuya al desmerito de la reputacion
+- Una vez ya tenga reoutacion puede por medio de demostraciones ridiculizar la reputacion de su rival
+> Las aperiencis son el barometro que utilizamos para juzgar a los demas
+
+**Base su reputacion en una cualidad genuina**
+
+>[!warning] 
+>No se permita enfurecerse o adoptar una actitud defensiva frente a los comentarios difamadores de sus enemigos, ya que ello revelaria inseguridad y falta de confianza en su propia reputacion. **Tome el mejor camino y nunca se muestre desesperado en su autodefensa**
+
+> El atacar la reputacion de otro hombre cuando usted tiene poca puede ser beneficioso, dado que el otro tiene mas que perder. Pero si no destruye la reputacion de su enemigo con tacticas habiles, sin querer arriesgara la suya propia.
+
 
 
