@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/pruebas de bondad de ajuste.md",
+                "file": "_notes/books/las 48 leyes del poder robert greene.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_notes/Public/pruebas de bondad de ajuste.md",
+                "file": "_notes/books/las 48 leyes del poder robert greene.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/pruebas de bondad de ajuste.md",
+                "file": "_notes/books/las 48 leyes del poder robert greene.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
                 "file": "_notes/courses/probabilidad/Clase 20.pdf",
                 "page": 136,
                 "left": -13,
-                "top": 193,
-                "zoom": 1.128612179089669
+                "top": 197,
+                "zoom": 1.1286121790896688
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/pruebas de bondad de ajuste.md",
+                "file": "_notes/books/las 48 leyes del poder robert greene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/pruebas de bondad de ajuste.md"
+                "file": "_notes/books/las 48 leyes del poder robert greene.md"
               }
             }
           }
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 585.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,7 @@
   },
   "active": "7697874deb28ec18",
   "lastOpenFiles": [
+    "_notes/Public/pruebas de bondad de ajuste.md",
     "_notes/Public/prueba de hipotesis Kolmogorov-Smirnov.md",
     "_notes/Public/prueba de hipotesis Jarque Bera.md",
     "_notes/Public/prueba de hipotesis de Asimetria y Kurtosis de Mardia.md",
@@ -217,7 +219,6 @@
     "_notes/prueba de hipotesis Cramer Von Misses.md",
     "_notes/prueba de hipotesis  Shapiro-Wilks.md",
     "prueba de hipotesis de Asimetria y Kurtosis de Mardia.md",
-    "_notes/Public/pruebas de bondad de ajuste.md",
     "prueba de hipotesis Jarque Bera.md",
     "prueba de hipotesis Cramer Von Misses.md",
     "prueba de hipotesis  Shapiro-Wilks.md",

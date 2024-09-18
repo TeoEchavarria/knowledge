@@ -136,4 +136,41 @@ Si no tiene la reputacion suficiente como para hacerle contra a su enemigo tiene
 > El atacar la reputacion de otro hombre cuando usted tiene poca puede ser beneficioso, dado que el otro tiene mas que perder. Pero si no destruye la reputacion de su enemigo con tacticas habiles, sin querer arriesgara la suya propia.
 
 
+# Ley 6 - Busque llamar la atencion a cualquier precio
+
+## Parte 1 - Rodee su nombre de sencacionalismo y escandalos
+
+> Todo es juzgado por su apariencia; lo que no se ve no cuenta. Conviertase en un iman que concentre la atencion de los demas, mostrandose **mas grande, mas atractivo y mas misterioso** que la gran masa, **timida y anodina.**
+
+Es preferible ser difamado y agredido que ignorado.
+
+Para provocar una multitud, hay que hacer algo diferente y extravagante.
+
+>[!note]
+>Hay que entender que la gente se siente superior a la persona cuyas acciones puede predecir.
+
+
+## Parte 2 - Cree un aire de misterio
+
+> Utilice el misterio para embaucar, seducir e incluso atemorizar.
+
+Lo misterioso no puede ser captado en su totalidad, y lo que no se puede captar y consumir genera poder. 
+
+Tanto los artistas como los embaucadores, comprenden la relacion vital que existe entre ser misterioso y atraer el interes de los demas. 
+
+>[!note]
+>Hable poco de su trabajo, haga comentarios seductores, incluso contradictorios y luego de un paso hacia atras y deje que los otros traten de encontrarle un sentido
+
+Cada tanto actue de alguna forma que no sea acorde con el concepto que tienen de usted quieres lo rodean. Esta es una forma de mantenerlos a la defensiva y generar el tipo de atencion que le asegurara el poder. 
+
+A veces vemos algo atemorizante y sin senido, por la falta de conocimiento. Antes de tomar una desicion sea conciente de que tiene la informacion necesaria para tomarla.
+
+**Nunca canse al publico con la misma tactica**
+**No permita que su aura de misterio se transforme en fama de falso y mentiroso**
+
+>[!warning]
+>No se muestre nunca demasiado ansioso de recibir atencion, dado que es una señal de inseguridad, y la inseguridad ahuyenta el poder.
+
+
+
 
