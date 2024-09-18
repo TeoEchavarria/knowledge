@@ -10,7 +10,10 @@ Lo que vamos a hacer es calcular probabilidades sacando un subconjunto de $n$ pe
 
 Su  [[funcion masa de probabilidad]] es:
 
- $$p(x)=(text("binom") K times  dot  text("binom")(N-K)(n-x) )/(text("binom") N K) $$ 
+$$p(x)= ( text("binom") K times  dot  text( "binom" ) (N-K)(n-x) )/(text("binom") N K)$$
+
+ 
+  
 Se denota como  $$X tilde.op text("Hiper")(N,K,n)$$ 
 
 Sea su  [[esperanza]] y su  [[varianza]] igual a :  $$E(X) = n dot  (K)/(N) , V(X)=((N-n))/((N-1)) dot  n dot  (K)/(N) dot (1-(K)/(N))$$ 
