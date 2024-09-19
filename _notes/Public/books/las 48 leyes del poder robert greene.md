@@ -138,7 +138,7 @@ Si no tiene la reputacion suficiente como para hacerle contra a su enemigo tiene
 
 # Ley 6 - Busque llamar la atencion a cualquier precio
 
-## Parte 1 - Rodee su nombre de sencacionalismo y escandalos
+## Parte 1 : Rodee su nombre de sencacionalismo y escandalos
 
 > Todo es juzgado por su apariencia; lo que no se ve no cuenta. Conviertase en un iman que concentre la atencion de los demas, mostrandose **mas grande, mas atractivo y mas misterioso** que la gran masa, **timida y anodina.**
 
@@ -150,7 +150,7 @@ Para provocar una multitud, hay que hacer algo diferente y extravagante.
 >Hay que entender que la gente se siente superior a la persona cuyas acciones puede predecir.
 
 
-## Parte 2 - Cree un aire de misterio
+## Parte 2 : Cree un aire de misterio
 
 > Utilice el misterio para embaucar, seducir e incluso atemorizar.
 
@@ -170,6 +170,22 @@ A veces vemos algo atemorizante y sin senido, por la falta de conocimiento. Ante
 
 >[!warning]
 >No se muestre nunca demasiado ansioso de recibir atencion, dado que es una señal de inseguridad, y la inseguridad ahuyenta el poder.
+
+
+# Ley 7 - Logre que otros trabajen por usted, pero no deje nunca de llevarse los laureles
+
+> Nunca haga lo que otros pueden hacer por usted
+
+**El merito por el invento o la creacion es tan importante (si no mas) que el invento mismo.** Es necesario asegurarse de obtener el mmerito y evitar que los demas lo roben
+
+>[!warning] Para Lograrlo
+>- Mantenga su creacion en secreto hasta cerciorarse de que no hay aves de rapiña dando vueltas sobre su cabeza
+>- Aprenda a sacar provecho del trabajo de otras personas para fomentar su propia causa
+
+Parese sobre los hombros de los gigantes
+
+> Los tontos dicen que aprenden por experiencia. Yo prefiero beneficiarme con la experiencia de los demas 
+
 
 
 
