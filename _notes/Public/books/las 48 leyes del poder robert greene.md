@@ -187,6 +187,40 @@ Parese sobre los hombros de los gigantes
 > Los tontos dicen que aprenden por experiencia. Yo prefiero beneficiarme con la experiencia de los demas 
 
 
+# Ley 8 - Haga que la gente vaya hacia usted y, de ser necesario, utilice la carnada mas adecuada para lograrlo
+
+> Que sentido tiene moverme freneticamente en distintas direcciones, tratando de resolver problemas y derrotar a mis enemigos, si nunca logro controlar la situacion?
+
+**Concentrate en dirigir los hechos, y no simplemente reaccionar ante ellos**
+
+Domine sus emociones, y nunca actue ante el estimulo de la ira. Pero si juegue con la ira de los otros, y el instinto nautal de reaccionar con ira presionando o engañando
+
+Un buen guerrero hace que los demas vayan hacia el, y no va el hacia los demas. Este es el principio de la plenitud y el agotamiento de usted y de los otros. 
+
+Logre que su enemigo, actue bajo las condiciones impuestas por usted.
+
+
+# Ley 9 - Gane a traves de sus acciones, nunca por medio de argumentos
+
+> No expliqué, demuestre
+
+>[!warning]
+>El argumentador no comprende que las palabras nunca son neutrales, y que al discutir con un superior impugna la inteligencia de alguien más poderoso que el.
+
+Aprenda a demostrar lo acertado de sus ideas de forma indirecta 
+
+Las palabras tienen esa insidiosa cualidad de ser interpretadas de acuerdo con el estado de ánimo y las inseguridades del que las recibe 
+
+>[!note]
+>El poder de demostrar las propias ideas radica en que los rivales no se ponen a la defensiva y por lo tanto resultan mucho más fáciles de persuadir 
+
+La demostración fue tan visceral que no hizo falta ningún otro argumento. - Historia de Stalin
+
+>[!error] Imagen
+>El sube y baja, arriba y abajo; Asi se mueven los argumentos, sin llegar a ninguna parte. Demuestre lo que quiere transmitir, sin presionar ni empujar. Deje al otro arriba y permita que la fuerza de gravedad lo baje con suavidad a tierra.
+
+
+
 
 
 
