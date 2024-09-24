@@ -23,3 +23,4 @@ En todo caso lo que queremos es rechazar $H_0$ en el caso de que sea asi, entonc
 
 > Contrario a lo intuitivo, la **Hipotesis alternativa** es la protagonista en las pruebas de hipotesis
 
+
