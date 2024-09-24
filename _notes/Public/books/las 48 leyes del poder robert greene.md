@@ -220,6 +220,25 @@ La demostración fue tan visceral que no hizo falta ningún otro argumento. - Hi
 >El sube y baja, arriba y abajo; Asi se mueven los argumentos, sin llegar a ninguna parte. Demuestre lo que quiere transmitir, sin presionar ni empujar. Deje al otro arriba y permita que la fuerza de gravedad lo baje con suavidad a tierra.
 
 
+# Ley 10 - Peligro de Contagio : Evite a los perdedores y los desdichados
+
+> Los estados de animo son tan contagiosos y toxicos como una enfermedad infecciosa. A menudo, los perdedores son los artifices de su propia desgracia y terminan por transmitirla a quien quiere ayudarlos. EVITELOS y, en cambio, frecuente a individuos ganadores y felices.
+
+**Huya de la presencia de la persona toxica, o sufrira las consecuencias**
+
+Seria magnifico si pudiere ayudarlos a levantar cabeza, a modificar sus esquemas de comportamiento, pero la mayoria de veces las cosas suceden a la inversa: **son los esquemas destructivos los que terminan por meterse dentro de nosotros**
+
+>[!nota] Notar
+>El ser humano es en extremo susceptible a los humores, a las emociones e incluso a la forma de pensar de aquellas personas con las que comparte su tiempo
+
+En el juego del poder es de importancia crucial verificar con que tipo de gente se asocia
+
+>[!error] Autoridad
+>Reconozca la buena fortuna, a fin de poder elegirla como compañera; y a los desafortunados, para poder evitarlos. Nunca abra su puerta a la menor de las desgracias, porque si lo hace otras muchas la seguiran de inmediato...
+
+
+
+
 
 
 
