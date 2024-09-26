@@ -237,9 +237,44 @@ En el juego del poder es de importancia crucial verificar con que tipo de gente 
 >Reconozca la buena fortuna, a fin de poder elegirla como compañera; y a los desafortunados, para poder evitarlos. Nunca abra su puerta a la menor de las desgracias, porque si lo hace otras muchas la seguiran de inmediato...
 
 
+# Ley 11 - Haga que la gente dependa de usted
+
+> Para mantener su independencia, es indispensable que los demas lo quieran y necesiten. Nunca enseñe a los demas lo suficiente como para que puedan arreglarselas sin su ayuda
+
+**Sea Irremplazable**
+
+Tarde o temprano aparecera alguien que pueda hacer su tarea tan bien como usted, mas joven, mas fresco, mas barato y menos amenazador para el amo
+
+Nadie que sea fuerte de verdad, va a querer depender de usted.
+
+> El maximo poder reside en lograr que los demas hagan lo que usted quiere. 
+
+**Deshacerse de usted podria producir un desasatre**
+
+La dependencia puede darse de dos formas: **Intensivo (Miguel Angel), Extensivo (Casa Blanca)**
+
+>[!warning] Y de que sirve el poder si no le procura paz?
+
+>[!note] El temos es algo que puede controlar, mientras que el amor es incontrolable
+
+
+# Ley 12 - Para Desarmar a su victima, utilice la franqueza y la generosidad en forma selectiva
+
+> El gesto de franca y honesta generosidad hace bajar la guardia aun al individuo mas desconfiado. Una vez abierta su armadura, podra manipularlo y embaucarlo a su antojo.
+
+**Caballo de troya**
+
+La esencia del engaño es la distraccion. Distraer a la gente le dara tiempo y espacio para hacer las cosas sin que ellos se percaten.
+
+La honestidad es la mejor forma de desarmar al desconfiado.
+
+En el ambito del poder, nada es inamovible.
 
 
 
+# Ley 13
+
+# Ley 14
 
 
 
