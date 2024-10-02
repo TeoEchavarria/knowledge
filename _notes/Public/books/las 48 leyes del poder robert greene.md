@@ -272,9 +272,22 @@ En el ambito del poder, nada es inamovible.
 
 
 
-# Ley 13
+# Ley 13 - Cuando puda ayuda, no apele a la compasion o a la gratitud de la gente, sino a su egoismo 
+
+No se moleste en recordarle el apoyo que usted le dio en el pasado, en cambio muestre elementos que beneficiaran a la otra persona, su contrincante respondera con entusiasmo a su solicitud, al detectar el beneficio que podria tener.
+
+Ante hombre que solo conocen la fuerza y su propio interes, no tiene creencias de justicia y nobleza.
+
+Comprenda a la persona con la que esta tratando y haga confundir sus propias necesidades con las del otro.
+
+>[!nota] No sea sutil
+>Usted tiene un conocimiento valioso que compartir, o llenara de oro los cofres del otro, o le prolongara la vida y lo hara mas feliz. **Ese es el idioma que todos hablamos y comprendemos**
+
+> El interes propio es la palanca magica que mueve a la gente
+
+Aprenda a detectar las diferencias entre los poderosos. Cuando emanan codicia, no apele a la caridad. Cuando quieren parecer nobles y caritativos, no apele a la codicia.
 
 # Ley 14
 
-
+# Ley 15
 
