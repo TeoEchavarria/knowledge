@@ -16,7 +16,7 @@ La neurona se exita de forma lineal o no lineal que es el proceso interno de caj
 # Funciones de Activacion 
 - [[sigmoide]]
 - [[tangente hiperbólica]]
-- [[reLU]]
+- [[ReLU]]
 - [[ELU]]
 - [[SEUL]]
 - [[softmax]]
