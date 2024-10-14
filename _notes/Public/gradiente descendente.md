@@ -1,3 +1,6 @@
+>[!note] Para que sirve?
+>La idea de minimizar la funcion de costo, significa minimizar el error. Toma una [[redes neuronales|red neuronal]] y va jugando con los pesos para minimizar el error entre las predicciones
+
 Es un algoritmo de optimizacion de parametros. Calcula la derivada parcial de la funcion de costo con respecto a cada uno de los parametros del modelo. 
 $$ diff/(diff W) M S E(W)  $$
 > Recordemos que el ![[MSE]]
@@ -12,5 +15,6 @@ Donde $eta=$ *tasa de aprendizaje* => El tamaño de los pasos cuesta abajo.
 Ocurren casos en los que la funcion de costo tiene 2 minimos. Un minimo local y un minimo global. Para esto se recomienda tener mas de una iteracion con una Iniciacion aleatoria diferente.
 
 ![[IrregularCostFunction.jpg]]
+
 
 
