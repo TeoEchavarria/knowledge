@@ -287,7 +287,24 @@ Comprenda a la persona con la que esta tratando y haga confundir sus propias nec
 
 Aprenda a detectar las diferencias entre los poderosos. Cuando emanan codicia, no apele a la caridad. Cuando quieren parecer nobles y caritativos, no apele a la codicia.
 
-# Ley 14
+# Ley 14 - Muestrese como un amigo, pero actue como un espia
+
+> Es de vital importancia saberlo todo sobre su rival. Formule preguntas indirectas para lograr que el otro revele sus intenciones y sus debilidades.
+
+No deje nunca nada al azar. Es como tirar al blanco con los ojos vendados, si uno se arma con algunos conocimientos, la punteria mejorara mucho.
+
+Conocer a la presa lo tornara encantador y seductor, y le permitira prever los deseos del otro.
+
+**Intente con base a la informacion obtenida, prever los movimientos de su adversario. En caso de no tener suficiente informacion, use a sus allegados para obtenerla**
+
+>[!note]
+>***Talleyrand*** dispara una pistola al aire, para ver quien salta por la ventana.
+
+Haga una confesion falsa y le respondera con una confesion real
+
+>[!warning]
+>La verdad es algo tan precioso, que siempre deberia de estar custodiada por un sequito de mentiras
+
 
 # Ley 15
 
