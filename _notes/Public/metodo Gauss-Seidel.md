@@ -28,13 +28,13 @@ x_3^{(k+1)} = \frac{17}{7} + \frac{1}{7} \textcolor{red}{(3 + 2x_2^{(k)} + x_3^{
 $$
 
 $$
-\Rightarrow T_{GS} = \begin{bmatrix}
+arrow T_{GS} = \begin{bmatrix}
 0 & 2 & 1 \\
 0 & 1 & \frac{3}{2} \\
 0 & -\frac{4}{7} & -\frac{8}{7}
 \end{bmatrix}
 
-y \quad c_{GS} = \begin{bmatrix}
+y text(" y ") c_{GS} = \begin{bmatrix}
 3 \\
 \frac{9}{2} \\
 -\frac{41}{7}

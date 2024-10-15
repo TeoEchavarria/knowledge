@@ -7,7 +7,7 @@ date: 01-01-2021
 Si $g(x)$ cumple con el ![[teorema existencia y unicidad del punto fijo]]
 
 Entonces podemos tomar cualquier $p_0$ y ejecutar la siguiente formula $$p_{n+1} = g(p_n)$$
-Donde $p_0 \in [a,b]$ e iteramos 
+Donde $p_0 in [a,b]$ e iteramos 
 
 
 >[!example]+ Ejemplo
