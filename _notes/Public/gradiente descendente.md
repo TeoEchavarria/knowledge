@@ -1,5 +1,5 @@
 >[!note] Para que sirve?
->La idea de minimizar la funcion de costo, significa minimizar el error. Toma una [[redes neuronales|red neuronal]] y va jugando con los pesos para minimizar el error entre las predicciones
+>La idea de minimizar la funcion de costo, significa minimizar el error. Toma una [[redes neuronales|red neuronal]] y va bajando por la colina de los pesos para minimizar el error entre las predicciones
 
 Es un algoritmo de optimizacion de parametros. Calcula la derivada parcial de la funcion de costo con respecto a cada uno de los parametros del modelo. 
 $$ diff/(diff W) M S E(W)  $$
