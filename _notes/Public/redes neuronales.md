@@ -3,23 +3,15 @@ Dentro de las redes tenemos 3 bases:
 - **Hiperparametros:** Son las capaz y la cantidad de neuronas en cada capa que se decide estipular. Aqui se ve el tema de [[overfitting]] o [[underfitting]].
 - Datos
 
-La neurona se exita de forma lineal o no lineal que es el proceso interno de caja negra que realiza.
-
-
-
-- [[gradiente descendente]]
-- [[backpropagation]]
+Lo que pasa dentro de una red neuronal es algo tal que asi:
+1. Inicialización aleatoria
+2. [[forward propagation]] - Funciones de Activacion
+3. [[loss function]]
+4. [[backpropagation]]
+5. Actualizacion de los pesos con el [[gradiente descendente]]
+6. Repetición del Proceso
 
 # Tipos de Redes Neuronales
 - [[perceptron]]
 
-# Funciones de Activacion 
-- [[sigmoide]]
-- [[tangente hiperbólica]]
-- [[ReLU]]
-- [[ELU]]
-- [[SEUL]]
-- [[softmax]]
-- [[softsign]]
-- [[softplus]]
-- [[exponential]]
+![[funciones de activacion - RNA]]
