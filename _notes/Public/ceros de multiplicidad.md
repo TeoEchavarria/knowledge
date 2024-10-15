@@ -11,7 +11,7 @@ Analiticamente, la multiplicidad de un cero p de una funcion $f$ esta caracteriz
 Una solución $p$ de $f(x) = 0$ es un cero de multiplicidad de $f$, si para $x != p$ podemos escribir
 $f(x) = (x - p)^m q(x)$
 donde
-$lim_{x arrow p} q(x) != 0$
+$lim_{x arrow p} q(x) != 0$ ^0ff830
 
 ![[ceros-multiplicidad.png|600]]
 
