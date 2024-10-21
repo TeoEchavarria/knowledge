@@ -1,2 +1,2 @@
-- [[MSE]]
-- [[cross-entropy]]
+- [[MSE]] - Regresiones
+- [[cross-entropy]] - Clasificacion Binaria
