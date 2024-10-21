@@ -306,5 +306,24 @@ Haga una confesion falsa y le respondera con una confesion real
 >La verdad es algo tan precioso, que siempre deberia de estar custodiada por un sequito de mentiras
 
 
-# Ley 15
+# Ley 15 - Aplaste por completo a su enemigo 
+
+>Si se deja encendida una sola brasa, por muy debil que sea, siempre se corre el riesgo que vuelva a desencadenarse un incendio. 
+
+>[!warning] Se ha perdido mas por una aniquilacion a medias, que por una exterminacion total.
+>
+
+No muestre ninguna duda ante aniquilar a su enemigo
+
+La compasion, o la esperanza de una reconcili azion, solo refuerza su miedo y el odio de su enemigo hacia usted.
+
+Solo una parte puede ganar, y debe de hacerlo de forma total
+
+>[!warning] Quienes buscan obtener logros no deberan mostrar clemencia
+
+Una vez obtenida una gran victoria, no se debe hablar de descanso hasta ver  su enemigo totalmente desangrado
+
+**Las negociciones es una serpiente ponzoñosa que devorara su victoria**
+
+La herida que inflijamos aun hombre debe ser, pues, tan grande que  no tengamos necesidad de temer su venganza 
 
