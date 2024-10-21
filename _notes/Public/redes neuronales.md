@@ -15,3 +15,7 @@ Lo que pasa dentro de una red neuronal es algo tal que asi:
 - [[perceptron]]
 
 ![[funciones de activacion - RNA]]
+
+# Temas Relacionados
+- [[redes neuronales para series de tiempo]]
+- 
