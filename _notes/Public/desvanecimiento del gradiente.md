@@ -9,3 +9,6 @@ En otras palabras, los **pesos en las capas inferiores apenas cambian** porque e
 - Si la derivada es casi 0, el gradiente que se retropropaga a través de la red es muy pequeño.
 - Esto afecta el aprendizaje de las capas más profundas (inferiores), ya que no hay suficiente gradiente para ajustar los pesos en esas capas.
 
+
+>[!warning] Leer sobre las [[LSTM]]
+
