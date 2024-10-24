@@ -1,3 +1,9 @@
+---
+title: Forward Propagation - RNN
+feed: show
+date: 06-10-2024
+---
+
 Se refiere al calculo de las sumas ponderadas en cada una de las [[neurona|neuronas]]
 $$z=sum^n_(i=1)x_i dot w_i + b$$
 

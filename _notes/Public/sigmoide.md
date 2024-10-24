@@ -1,3 +1,9 @@
+---
+title: Sigmoide - RNN
+feed: show
+date: 07-10-2024
+---
+
 En [[keras]]: `"sigmoid"`
 
 $$sigma(z) = 1/(1+exp^(-z))$$

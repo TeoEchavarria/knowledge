@@ -1,3 +1,9 @@
+---
+title: Prueba de bondad de ajuste
+feed: show
+date: 05-09-2024
+---
+
 > [!PDF|red] [[Clase 20.pdf#page=10&selection=5,0,123,1&color=red|Clase 20, p.1]]
 > > Suponga que se tiene un experimento multinomial, es decir una serie de ensayos ($n$ ensayos) identicos e independientes y $k$ posibles categorias o clases. Sea $p_i$ la probabilidad de clasificar un sujeto u objeto en la categoria $i$ y sea $N_i$ el numero de sujetos u objetos que caen en la categoria $i$ de los n ensayos. Se tiene que $N_1 + · · · + N_k = n$. Cada $N_i$ sera una v.a. binomial con parametros $n$ y $p_i$ con $i = 1, 2 · · · , k$. El numero esperado de ensayos en la categoria $i$ sera $$E [N_i] = n dot p_i ; i = 1, 2, · · · , k$$ 
 > 

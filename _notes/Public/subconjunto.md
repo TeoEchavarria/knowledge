@@ -1,5 +1,5 @@
 ---
-title: "Subconjunto"
+title: Subconjunto
 feed: show
 date: 01-01-2021
 ---

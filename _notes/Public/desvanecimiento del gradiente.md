@@ -1,3 +1,9 @@
+---
+title: Desvanecimiento del gradiente - RNN
+feed: show
+date: 05-10-2024
+---
+
 Las capas más cercanas a la entrada de la red no reciben suficiente señal de error para ajustarse, haciendo que el aprendizaje sea extremadamente lento o, en algunos casos, imposible.
 
 En otras palabras, los **pesos en las capas inferiores apenas cambian** porque el gradiente es prácticamente **cero**.

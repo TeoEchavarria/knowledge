@@ -1,3 +1,9 @@
+---
+title: Tangente Hiperbolica - RNN
+feed: show
+date: 07-10-2024
+---
+
 En [[keras]]: `"tanh"`
 $$tanh(z) = sinh(z)/cosh(z) = (exp^z-exp^(-z))/(exp^z+exp^(-z))$$
 > [!PDF|red] [[Funciones de activación.pdf#page=4&selection=14,0,18,42&color=red|Desventaja]]

@@ -1,3 +1,9 @@
+---
+title: Gradiente Descendente - RNN
+feed: show
+date: 05-10-2024
+---
+
 >[!note] Para que sirve?
 >La idea de minimizar la funcion de costo, significa minimizar el error. Toma una [[redes neuronales|red neuronal]] y va bajando por la colina de los pesos para minimizar el error entre las predicciones
 

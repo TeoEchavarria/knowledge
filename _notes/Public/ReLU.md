@@ -1,3 +1,9 @@
+---
+title: ReLU - RNN
+feed: show
+date: 07-10-2024
+---
+
 En [[keras]]: `"relu"`
 $$R e L U(z)= max(z,0)$$
 > Funcion de activacion mas utilizada en [[deep learning]]

@@ -1,7 +1,7 @@
 ---
 title: Las 48 Leyes del Poder - Robert Greene
 feed: hide
-date: 01-01-2021
+date: 10-10-2024
 ---
 # Ley 1 - Nunca le haga sombra a su amo
 

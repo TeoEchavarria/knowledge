@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
- $$P(A sect B)=P(A)+P(B)-P(A union B)$$
+$$P(A sect B)=P(A)+P(B)-P(A union B)$$
 
 Hablando aqui igualmente de pura teoria de conjuntos con [[union]] e [[interseccion]]
 
