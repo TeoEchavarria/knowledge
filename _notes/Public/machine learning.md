@@ -18,3 +18,6 @@ date: 11-09-2024
 ## Statistics
 - [[arima]]
 - [[sarima]]
+
+## RNN
+- [[redes neuronales]]
