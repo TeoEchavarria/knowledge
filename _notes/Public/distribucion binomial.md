@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
-Un [[experimento aleatorio]] es llamado Binomial si cumple las siguientes caracteristicas: 
+Un [[eventos aleatorio]] es llamado Binomial si cumple las siguientes caracteristicas: 
 - Consta de $n$ pruebas identicas e [[050824214005]]. 
 - Cada prueba tiene dos posibles resultados ’Exito’ o ’Fracaso’ ([[distribucion bernoulli]]). 
 - La probabilidad de Exito es constante en las $n$ pruebas y se denota por $p$. 

@@ -4,7 +4,7 @@ feed: show
 date: 01-01-2021
 ---
 
-El [[experimento aleatorio]] consiste en contar el numero de veces que ocurre un cierto [[evento]] de interes por unidad de tiempo o espacio. $$X: text("numero de ocurrencias en el intervalo real.")$$
+El [[eventos aleatorio]] consiste en contar el numero de veces que ocurre un cierto [[evento]] de interes por unidad de tiempo o espacio. $$X: text("numero de ocurrencias en el intervalo real.")$$
 
 >[!note] Aclaracion
 >Es posible asumir que la [[probabilidad]] de que un evento ocurra en una cierta unidad es la misma para todas las unidades de su tipo.
