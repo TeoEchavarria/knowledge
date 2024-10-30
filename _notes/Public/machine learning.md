@@ -16,6 +16,7 @@ date: 11-09-2024
 - [[stacking]]
 
 ## Statistics
+- [[regresion lineal simple]]
 - [[arima]]
 - [[sarima]]
 
