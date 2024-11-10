@@ -13,6 +13,6 @@ Para el pronóstico de [[serie de tiempo|series de tiempo]] se debe tener en cue
 - Aplicarle transformaciones a la seried e tiempo - Con el fin de llegar a algo con una estacionalidad mas marcada **BUSCAR - (Diferenciacion y Logaritmica)**
 - [[validacion cruzada]] - Lags
 - [[escalado de variables]]
-- [[Dropout]] - Luego de haber sobre ajustado el modelo, significa que puedo volver a un estado optimo, tengo que penalizar ese sobre entrenamiento
+- [[dropout]] - Luego de haber sobre ajustado el modelo, significa que puedo volver a un estado optimo, tengo que penalizar ese sobre entrenamiento
 - [[callbacks - early stopping]]
 - 
