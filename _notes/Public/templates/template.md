@@ -1,7 +1,7 @@
 ---
 title: 
 feed: show
-date: <% tp.date.now("DD-MM-YYYY") %>
-tags: []
-curso: 
+date: "{{tp.date.now()}}"
+tags: 
+curso:
 ---
