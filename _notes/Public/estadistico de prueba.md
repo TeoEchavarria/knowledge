@@ -1,7 +1,7 @@
 ---
 title: Estadistico de prueba
 feed: show
-date: 2024-11-10
+date: 10-11-2024
 tags: []
 curso: 
 ---

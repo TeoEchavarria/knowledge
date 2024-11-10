@@ -1,7 +1,7 @@
 ---
-title: {tp_title}
+title: 
 feed: show
-date: {tp_date:YYYY-MM-DD}
+date: <% tp.date.now("DD-MM-YYYY") %>
 tags: []
 curso: 
 ---
