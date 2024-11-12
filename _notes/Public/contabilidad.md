@@ -1,7 +1,7 @@
 ---
 title: Contabilidad
 feed: show
-date: <% tp.date.now() %>
+date: 12-11-2024
 tags:
   - contabilidad
   - economia
