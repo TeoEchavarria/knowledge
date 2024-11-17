@@ -1,6 +1,9 @@
 Permite establecer asociaciones, en este caso lineales, entre las variables de interes.
 
 $$Y_i = beta_0+beta_i X + Epsilon_i$$
+
+Expresado en otros terminos: [[SST]] = [[SSR]] + [[SSE]]
+
 Donde $Epsilon_i$ es una variable de error iid con distribucion $N tilde (0,sigma^2)$ 
 
 # Enfoques 
