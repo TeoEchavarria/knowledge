@@ -33,7 +33,7 @@ Nunca hay que confiar tanto en la tentadora trampa de la amistad como para luego
 >[!note] Maquiavelo
 >Muchos principes han encontrado mayor lealtad y utilidad en aquellos hombres a los que, cuando recien comenzaron a ejercer el poder, miraban con desconfianza, que en aquellos en que confiaron de entrada
 
-Mientras que un amigo espera mas y mas favores y hierve de celos y envidia, los exenemigos no esperaban nada y recibieron todo. 
+Mientras que un amigo espera mas y mas favores y hierve de celos y envidia, los ex-enemigos no esperaban nada y recibieron todo. 
 
 > Un hombre al que le perdonan la vida es un hombre que ira hasta el fin del mundo por aquel que le concedio esa gracia.
 
