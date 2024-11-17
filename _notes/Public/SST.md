@@ -14,5 +14,8 @@ $$text("SST")=sum_(i=1)^n (Y_i− overline(Y))2$$
 
 donde $Y_i$​ es el valor observado y $overline(Y)$ es la media de la variable dependiente $Y$.
 
+![[clase2.pdf#page=5&rect=136,181,317,230|clase2, p.5|300]]
+Que en otras palabras es igual a lo que vimos en la ![[regresion lineal simple#^2e68f3]]![[clase2.pdf#page=6&rect=59,-3,402,222|clase2, p.6|400]]
+
 >[!warning] Relacion con: [[SSR]] [[SSE]]
 
