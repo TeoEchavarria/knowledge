@@ -12,3 +12,6 @@ Recuerde que los supuestos sobre los errores asumidos en el modelo de [[regresio
 ![[clase3.pdf#page=7&rect=20,-2,440,254|clase3, p.7]]
 
 
+[[R]] `plot(modelo, 1)`
+
+![[Pasted image 20241119070147.png|400]]

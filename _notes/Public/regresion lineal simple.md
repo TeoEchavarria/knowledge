@@ -6,6 +6,12 @@ Expresado en otros terminos: [[SST]] = [[SSR]] + [[SSE]] ^2e68f3
 
 Donde $Epsilon_i$ es una variable de error iid con distribucion $N tilde (0,sigma^2)$ 
 
+# Pasos 
+- Denifir $X$ y $Y$ 
+- [[pruebas de hipotesis relacionado con determinar la relevancia variables sobre Y]]
+- [[validacion modelo analisis residuales]]
+- [[prueba de normalidad para los errores]]
+
 # Enfoques 
 
 -  [[Enfoque probabililistico - metodo de maxima verosimilitud]]
@@ -20,7 +26,6 @@ Donde $Epsilon_i$ es una variable de error iid con distribucion $N tilde (0,sigm
 > $beta_i$ = El cambio esperado de $y_i$ por un incremento unitario en la variable predictoria $x_i$
 
 ## Subtemas
-- [[pruebas de hipotesis relacionado con determinar la relevancia variables sobre Y]]
 - [[intervalos de confianza para regresiones lineales]]
 - [[regresiones lineales en R]]
 

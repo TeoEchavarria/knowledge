@@ -3,6 +3,9 @@
 >[!warning] Idea
 >Al convertir a $beta_1$ en cero estamos suponiendo que la v.a. que esta acompañando no tiene relevancia sobre $Y$ de esta forma se testea el impacto que tiene la v.a.
 
+>[!note] Herramientas
+>Para saber esto podemos usar tanto la prueba $t$ como la del [[anova]], [[sumary]] del modelo ver $P r (>|t|)$ , donde si es menor a $0.05$ el modelo es significativo
+>![[Pasted image 20241119065036.png|350]]
 
 Donde $beta_1$ lo podemos ver como:
 $$beta_1 = (sum y_i [x_i - hat(X))/ (sum x_i^2 - hat(X) sum x_i) $$
@@ -14,6 +17,8 @@ y $$V a r[beta_1] = sigma^2 sum m_i^
 2$$
 > Como podemos relacionar la distibucion $N tilde (beta_1,  sigma^2 sum m_i^2)$ con la hipotesis?
 
-Como no conocemos $beta_1$ ni tampoco $sigma^2$ lo que tenemos es que estandarizar, mas con $hat(sigma^2)$ que es una $t_(n-2)$ y como $beta_1 = 0$ 
+Como no conocemos $beta_1$ ni tampoco $sigma^2$ lo que tenemos es que estandarizar, mas con $overline(sigma^2)$ que es una $t_(n-2)$ y como $beta_1 = 0$ 
 
-- Planteamos un [[estadistico de prueba]] bajo $H_0$ : $$hat(beta)/sqrt(hat(sigma)^2 sum m_i^2)$$
+- Planteamos un [[estadistico de prueba]] bajo $H_0$ : 
+- $$overline(beta)/sqrt(overline(sigma)^2 sum m_i^2)$$
+- 
