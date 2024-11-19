@@ -327,3 +327,15 @@ Una vez obtenida una gran victoria, no se debe hablar de descanso hasta ver  su 
 
 La herida que inflijamos aun hombre debe ser, pues, tan grande que  no tengamos necesidad de temer su venganza 
 
+# Ley 16 - Utilice la ausencia para incrementar el respeto y el honor
+
+> Demasiada oferta reduce el precio. Recuerde que la escasez de un recurso incrementa su valor.
+
+Si uno se ausenta demasiado pronto, corre el riesgo de ser olvidado. 
+
+Una presencia accesible no deja espacio para la imaginacion y los deseos del otro.
+
+Tiene que saber retirarse en el momento adecuado, antes de que los demas lo aparten
+
+
+# Ley 17
