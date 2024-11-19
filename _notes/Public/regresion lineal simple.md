@@ -11,7 +11,7 @@ Donde $Epsilon_i$ es una variable de error iid con distribucion $N tilde (0,sigm
 - [[pruebas de hipotesis relacionado con determinar la relevancia variables sobre Y]]
 - [[validacion modelo analisis residuales]]
 - [[prueba de normalidad para los errores]]
-
+- [[prediccion de modelos lineales]]
 # Enfoques 
 
 -  [[Enfoque probabililistico - metodo de maxima verosimilitud]]

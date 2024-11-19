@@ -14,4 +14,4 @@ Recuerde que los supuestos sobre los errores asumidos en el modelo de [[regresio
 
 [[R]] `plot(modelo, 1)`
 
-![[Pasted image 20241119070147.png|400]]
+![[residuals.png|350]]

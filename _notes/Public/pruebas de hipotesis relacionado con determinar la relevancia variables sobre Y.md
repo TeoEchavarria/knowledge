@@ -5,7 +5,7 @@
 
 >[!note] Herramientas
 >Para saber esto podemos usar tanto la prueba $t$ como la del [[anova]], [[sumary]] del modelo ver $P r (>|t|)$ , donde si es menor a $0.05$ el modelo es significativo
->![[Pasted image 20241119065036.png|350]]
+>![[sumary.png|350]]
 
 Donde $beta_1$ lo podemos ver como:
 $$beta_1 = (sum y_i [x_i - hat(X))/ (sum x_i^2 - hat(X) sum x_i) $$
