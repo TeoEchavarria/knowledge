@@ -23,3 +23,6 @@ En una empresa, estos sistemas ayudan a tomar decisiones estratégicas al propor
 - **[[PMS]]** - Sistemas de Gestión de Proyectos 
 - **[[GIS]]** - Sistemas de Información Geográfica
 
+
+>[!note] Relacionado : [[MIS]]
+
