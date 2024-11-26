@@ -9,7 +9,7 @@ curso:
 ---
 Es un conjunto organizado de recursos (como tecnología, datos, procesos y personas) que se utiliza para recolectar, procesar, almacenar y distribuir información relevante. 
 
-En una empresa, estos sistemas ayudan a tomar decisiones estratégicas al proporcionar información financiera precisa, evaluar el rendimiento económico, gestionar recursos de manera eficiente y analizar el mercado.
+En una empresa, estos sistemas ayudan a tomar decisiones estratégicas al proporcionar información financiera precisa, evaluar el rendimiento económico, gestionar recursos de manera eficiente y analizar el mercado. 
 
 ## Alguno de ellos son:
 - **[[ERP]]** - Enterprise Resource Planning
@@ -26,3 +26,7 @@ En una empresa, estos sistemas ayudan a tomar decisiones estratégicas al propor
 
 >[!note] Relacionado : [[MIS]]
 
+>[!note] Diferencia entre Tecnologias de informacion y sistemas de informacion
+
+>[!warning] Puede haber sistemas de informacion sin tecnologia de informacion:
+>
