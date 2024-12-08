@@ -15,3 +15,5 @@ $$mat(1,2,3;3,4,5)$$
 - **Identidad:** Matriz diagonal con unos en la diagonal principal.
 - **Nula:** Todos sus elementos son cero.
 - **Traspuesta:** Se obtiene al intercambiar filas por columnas.
+- **Simetrica:** $A^prime = A$ 
+- **Idempotente:** $A A = A^2 = A$
