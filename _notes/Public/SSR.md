@@ -7,7 +7,7 @@ tags:
   - regresion
 curso:
 ---
-Mide la cantidad de **variabilidad en la variable** dependiente que es **explicada por el modelo de regresión**. 
+Mide la cantidad de **variabilidad en la variable** dependiente que es **explicada por el modelo de regresión**.  ^f2ba51
 
 Es decir, es la suma de los cuadrados de las diferencias entre los valores predichos por el [[modelo]] y la media de la variable dependiente. 
 Se calcula como: 

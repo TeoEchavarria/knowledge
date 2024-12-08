@@ -26,7 +26,7 @@ Donde $Epsilon_i$ es una variable de error iid con distribucion $N tilde (0,sigm
 > $beta_i$ = El cambio esperado de $y_i$ por un incremento unitario en la variable predictoria $x_i$
 
 ## Subtemas
-- [[intervalos de confianza para regresiones lineales]]
+- [[intervalos de confianza para regresiones lineales simples]]
 - [[regresiones lineales en R]]
 
 
