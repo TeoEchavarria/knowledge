@@ -12,3 +12,9 @@ Donde ya vimos como calcular la [[esperanza]]
 $$text("Var")[a + b X] = b^2 text("Var")[X]$$
 
 
+# Estimacion de la varianza con el [[SSE]]
+
+$$sigma^2= "SSE"/(n-p)$$
+
+>[!note] [[varianza vector aleatorio]]
+
