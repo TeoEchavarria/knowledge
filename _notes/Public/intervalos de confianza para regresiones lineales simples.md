@@ -1,5 +1,5 @@
 ---
-title: Intervalos de Confianza para Regresiones Lineales
+title: Intervalos de Confianza para Regresiones Lineales Simples
 feed: show
 date: 17-11-2024
 tags:
