@@ -14,7 +14,7 @@ $$text("Var")[a + b X] = b^2 text("Var")[X]$$
 
 # Estimacion de la varianza con el [[SSE]]
 
-$$sigma^2= "SSE"/(n-p)$$
+$$sigma^2= "SSE"/(n-p)$$ Donde $p=k+1$ que es el numero de parametros del modelo ^e8743d
 
 >[!note] [[varianza vector aleatorio]]
 

@@ -15,6 +15,6 @@ Es una herramienta estadística utilizada para determinar si existen diferencias
 
 ## En caso de [[regresion lineal multiple]] se usa es el siguiente 
 
-![[clase6.pdf#page=7&rect=73,84,397,190|clase6, p.7]]
+![[clase6.pdf#page=7&rect=73,84,397,190|clase6, p.7]] ^85d964
 
 Donde ya aqui de forma generalizada tenemos $p$ como el numero de variables predictoras utilizadas dentro del modelo

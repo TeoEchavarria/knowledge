@@ -12,6 +12,8 @@ Recuerde que los supuestos sobre los errores asumidos en el modelo de [[regresio
 ![[clase3.pdf#page=7&rect=20,-2,440,254|clase3, p.7]]
 
 
-[[R]] `plot(modelo, 1)`
+[[R]] `plot(modelo, 1)` en el caso de [[regresion lineal simple]]
+
+`plot(modelo,2)` en el caso de [[regresion lineal multiple]] ^5c2dc1
 
 ![[residuals.png|350]]

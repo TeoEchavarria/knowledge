@@ -12,4 +12,3 @@ Sea $R^2$ Ajustado unna medida de bondad de ajuste equivalente a [[r-cuadrado]],
 $$R^2_("adj")=1-((n-1) "MSE")/"SST"$$
 
 >[!note] Relacionado con [[MSE]] [[SST]]
-
