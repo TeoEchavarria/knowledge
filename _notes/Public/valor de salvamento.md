@@ -9,7 +9,7 @@ tags:
 curso:
 ---
 Es el valor estimado que se espera obtener por un activo al final de su vida útil.
-Este valor es importante en el contexto de la [[contabilidad]] y la gestión [[finanzas|financiera]], ya que se utiliza para calcular la [[depreciacion]] de un [[activo]] a lo largo de su vida útil.
+Este valor es importante en el contexto de la [[contabilidad]] y la gestión financiera, ya que se utiliza para calcular la [[depreciacion]] de un [[activo]] a lo largo de su vida útil.
 
 $$V S = sum_(j=1)^n [I_j - (I_j/n_j times d_j)]$$
 
