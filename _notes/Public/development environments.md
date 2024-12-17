@@ -15,6 +15,6 @@ Incluye todo lo necesario para desarrollar, probar y depurar software.
 - Definición de Requisitos del Proyecto - Lenguaje, framework, base de datos a usar, sistema de control de versiones, herramienta de pruebas 
 - Selección de Herramientas - IDE, Gestor de Dependencias
 - Configuración del Sistema de Control de Versiones - GitFlow por ejemplo
-- Automatización de Configuración- [[Virtual Env]], Requerimientos, [[docker]]
+- Automatización de Configuración- [[virtual env]], Requerimientos, [[docker]]
 - Integración con [[sistemas de CI/CD]]
 - Documentación del Entorno
