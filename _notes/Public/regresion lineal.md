@@ -11,3 +11,5 @@ curso:
 ---
 # Subtemas
 - [[regresion lineal simple]]
+- [[regresion lineal multiple]]
+
