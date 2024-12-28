@@ -2,7 +2,9 @@
 title: Regresion Lineal Multiple
 feed: show
 date: 03-12-2024
-tags: 
+tags:
+  - estadistica
+  - ml
 curso:
 ---
 Es una funcion de relaciones lineales con dos o mas variables preductoras, formuladas simultaneamente en un unico modelo.
@@ -36,7 +38,7 @@ Donde la estimacion de los parametros de modelo matriz beta gorro se calcula de 
 ![[varianza#^e8743d]]
 
 ## Validar la significancia del modelo
-![[anova#^85d964]]
+![[anova#^85d964]] En este caso lo que usamos es el $F$ calculado 
 
 ## Inferencia sobre los parametros del modelo de regresion
 ![[intervalos de confianza para regresiones lineales multiples#^e1eda5]]
