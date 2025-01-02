@@ -26,3 +26,17 @@ docker image rm <name-image>:<version-image>
 docker rmi <id_imagen> | <nombre_imagen>:<tag>
 ```
 
+>[!warning] Para agregar docker a [[nix]] lo que se debe de hacer es:
+>- De forma temporal 
+>```
+>nix-shell -p docker
+>```
+>- De forma permanente con comandos 
+>```
+>nix-env -iA nixos.docker
+>```
+>- Dentro de la configuracion 
+>```
+>  environment.systemPackages = [pkgs.docker];
+>```
+
