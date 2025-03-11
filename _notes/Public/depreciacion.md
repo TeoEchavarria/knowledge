@@ -1,7 +1,7 @@
 ---
 title: Depreciacion
 feed: show
-date: 00-12-2024
+date: 01-12-2024
 tags: 
 curso:
 ---
