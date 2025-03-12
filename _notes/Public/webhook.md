@@ -1,5 +1,5 @@
 ---
-title: Webhool
+title: Webhook
 feed: show
 date: 10-03-2025
 tags:
