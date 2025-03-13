@@ -12,3 +12,4 @@ El **método de Monte Carlo** es una técnica de simulación estocástica que ut
 
 **Aplicación de la [[ley fuerte de los grandes numeros]]**: Se aprovecha esto para aproximar valores desconocidos (como una esperanza, probabilidad o integral) mediante la media de muchas muestras aleatorias.
 
+[[teorema limite central]] nos brinda una base matemática sólida para confiar en que los resultados de las simulaciones (cuando se promedian) son precisos y nos permiten medir cuán confiables son nuestras estimaciones
