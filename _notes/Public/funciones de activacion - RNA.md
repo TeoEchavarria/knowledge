@@ -5,7 +5,7 @@ date: 06-10-2024
 ---
 
 - [[sigmoide]]
-- [[tangente hiperbólica]]
+- [[tanh]]
 - [[ReLU]]
 - [[ELU]]
 - [[SEUL]]

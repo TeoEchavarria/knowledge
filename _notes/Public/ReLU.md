@@ -11,7 +11,7 @@ $$R e L U(z)= max(z,0)$$
 ![[Funciones de activación.pdf#page=7&rect=32,80,510,573&color=red|Funciones de activación, p.7|500]]
 
 
-- **Mejor propagación del gradiente:** menos problemas de fuga de gradiente en comparación con las funciones de activación [[sigmoide]] y [[tangente hiperbólica|tahn]]. 
+- **Mejor propagación del gradiente:** menos problemas de fuga de gradiente en comparación con las funciones de activación [[sigmoide]] y [[tanh]]. 
 
 - En la región donde $x>0$, la derivada de ReLU es **1**, lo que significa que los gradientes pueden propagarse fácilmente sin volverse muy pequeños *(como ocurre con la sigmoide)*. Esto mejora la **eficacia del aprendizaje** en redes profundas, ya que el gradiente no se desvanece tan rápidamente como en las funciones sigmoide o tangente hiperbólica.
 
