@@ -11,3 +11,6 @@ $$tanh(z) = sinh(z)/cosh(z) = (exp^z-exp^(-z))/(exp^z+exp^(-z))$$
 
 ![[Funciones de activación.pdf#page=5&rect=28,394,535,769&color=red|Funciones de activación, p.5|400]]
 
+ Se usa para "dar forma" a la información Cuando los valores pueden ser negativos o positivos, la red puede tomar “positivo” podría significar que “existe” algo, “negativo” podría significar que “falta” o “se opone” algo.
+
+^09a50d
