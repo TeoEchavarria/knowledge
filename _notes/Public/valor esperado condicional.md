@@ -3,7 +3,7 @@ title: Valor Esperado Condicional
 feed: show
 date: 01-01-2021
 ---
-Imaginemos que tenemos dos variables aleatorias, $X$ y $Y$, que están relacionadas de alguna manera. El valor esperado condicional de $X$ dado $Y=y$, denotado como $E[X|Y=y]$, nos dice cuál es el promedio que esperamos obtener para $X$, si ya sabemos que $Y$ toma el valor $y$.
+Imaginemos que tenemos dos [[variable aleatoria|variables aleatorias]], $X$ y $Y$, que están relacionadas de alguna manera. El valor esperado condicional de $X$ dado $Y=y$, denotado como $E[X|Y=y]$, nos dice cuál es el promedio que esperamos obtener para $X$, si ya sabemos que $Y$ toma el valor $y$.
 
 >[!example] 
 >Supongamos que X representa la altura de una persona y Y representa su género (0 para mujer, 1 para hombre). El valor esperado condicional $E[X|Y=0]$ nos dirá cuál es la altura promedio de las mujeres en nuestra población."]
