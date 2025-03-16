@@ -11,4 +11,3 @@ Es una técnica de [[aprendizaje no supervisado]] que organiza un conjunto de da
 
 ![[clustering.png|400]]
 
-
