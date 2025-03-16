@@ -11,5 +11,5 @@ Los algoritmos supervisados trabajan con datos etiquetados. Esto significa que p
 
 Ejemplos de algoritmos supervisados incluyen la clasificación (por ejemplo, distinguir entre correos spam y no spam) y la regresión (predecir precios de viviendas).
 
->[!example] Relacionado con : [[regresion lineal]] [[regresion lineal simple]] [[regresion lineal multiple]]
+>[!example] Relacionado con : [[regresion]] [[regresion lineal simple]] [[regresion lineal multiple]]
 

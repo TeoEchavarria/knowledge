@@ -32,5 +32,5 @@ Como $X_c=4.82$ y $chiq_(0.05)(5)=11.07$ entonces $X_c$ no pertenece a la region
 
 ### Pruebas para variables continuas
 > [!PDF|note] [[Clase 20.pdf#page=96&selection=61,3,64,16&color=note|Clase 20, p.12]]
-> > [[prueba de hipotesis Kolmogorov-Smirnov]], [[prueba de hipotesis  Shapiro-Wilks]], [[prueba de hipotesis Cramer Von Misses]], [[prueba de hipotesis Jarque Bera]],[[prueba de hipotesis de Asimetria y Kurtosis de Mardia]]
+> > prueba de hipotesis Kolmogorov-Smirnov, prueba de hipotesis  Shapiro-Wilks, prueba de hipotesis Cramer Von Misses, prueba de hipotesis Jarque Bera,prueba de hipotesis de Asimetria y Kurtosis de Mardia
 
