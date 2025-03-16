@@ -7,6 +7,10 @@ date: 11-09-2024
 #ml #ai
 # AI Models
 
+# Learning
+- [[aprendizaje no supervisado]]
+- [[aprendizaje supervisado]]
+
 ## Machine Learning Models
 - [[random forest]]
 - [[bagging]]
@@ -22,3 +26,4 @@ date: 11-09-2024
 
 ## RNN
 - [[redes neuronales]]
+
