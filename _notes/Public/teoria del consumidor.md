@@ -1,5 +1,5 @@
 ---
-title: Teoria del Consumo
+title: Teoria del Consumidor
 feed: show
 date: 30-10-2024
 ---
