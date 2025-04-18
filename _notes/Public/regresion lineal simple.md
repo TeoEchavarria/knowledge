@@ -1,3 +1,10 @@
+---
+title: Regresion Lineal Simple
+feed: show
+date: 01-01-2025
+tags: 
+curso:
+---
 Permite establecer asociaciones, en este caso lineales, entre las variables de interes.
 
 $$Y_i = beta_0+beta_i X + Epsilon_i$$
