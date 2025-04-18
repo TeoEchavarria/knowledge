@@ -4,7 +4,9 @@ feed: show
 date: 30-10-2024
 ---
 
-Un **mercado de competencia perfecta** es un tipo ideal de mercado donde se cumplen ciertas condiciones que aseguran un nivel máximo de eficiencia. En la realidad, pocos mercados funcionan exactamente así, pero esta teoría sirve como una referencia para entender cómo deberían funcionar los mercados en condiciones óptimas.
+Un **mercado de competencia perfecta** es un tipo ideal de mercado donde se cumplen ciertas condiciones que aseguran un nivel máximo de eficiencia. 
+
+> ***NINGUN AGENTE ECONOMICO TIENE PODER DE MERCADO***
 
 ### **Características principales de la competencia perfecta:**
 
@@ -35,10 +37,3 @@ Un **mercado de competencia perfecta** es un tipo ideal de mercado donde se cump
 - El precio en un mercado de competencia perfecta se determina por la **oferta y demanda**.
 - Las empresas maximizan sus ganancias vendiendo al punto donde el **costo marginal** (el costo de producir una unidad más) es igual al precio de mercado.
 - En el **largo plazo**, las empresas obtienen ganancias normales (cero ganancias económicas), porque la libre entrada y salida de empresas ajusta continuamente la oferta.
-
----
-
-### **¿Por qué es un concepto ideal?**
-En la vida real, casi ningún mercado cumple con todas estas condiciones al 100%. Sin embargo, este modelo es útil para:
-- **Comprender cómo funciona la competencia** en condiciones perfectas.
-- **Analizar desviaciones del ideal**, como monopolios o mercados con información asimétrica, para entender cómo se pueden mejorar.
