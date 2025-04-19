@@ -8,22 +8,21 @@ date: 11-09-2024
 # AI Models
 
 # Learning
-- [[aprendizaje no supervisado]]
-- [[aprendizaje supervisado]]
+- aprendizaje no supervisado
+- aprendizaje supervisado
 
 ## Machine Learning Models
 - [[random forest]]
 - [[bagging]]
 - [[gradient boosting]]
 - [[ada boost]]
-- [[voting]]
 - [[stacking]]
 
 ## Statistics
 - [[regresion lineal simple]]
-- [[arima]]
-- [[sarima]]
+- arima
+- sarima
 
 ## RNN
-- [[redes neuronales]]
+- redes neuronales
 
